@@ -6,7 +6,7 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 melkon: # replace this with your info
-  name: "Melkon"
+  name: "Melkon Melkon"
   siterole: "Admin, copywriter"
   uri: http://facebook.com/mmelkon
   image: melkon-melkon.jpg
@@ -17,3 +17,54 @@ karam:
    siterole: "Webmaster, Admin"
    uri: http://phlow.de/
    twitter: "@kmelkon"
+
+huda:
+   name: "Huda Melkon"
+   siterole: "writer"
+   image: huda-melkon.jpg
+
+silva:
+   name: "Silva Melkon"
+   siterole: "writer"
+   image: silva-melkon.jpg
+
+hasan:
+   name: "Hasan Shahoot"
+   siterole: "writer"
+   image: hasan-shahoot.jpg
+
+bassam:
+   name: "Bassam Hamida"
+   siterole: "writer"
+   image: bassam-hamida.jpg
+
+ammar:
+   name: "Ammar Juma'a"
+   siterole: "writer"
+   image: ammar-jumaa.jpg
+
+adel:
+   name: "Adel Amer"
+   siterole: "writer"
+   image: adel-amer.jpg
+
+salim:
+   name: "Salim Abdal"
+   siterole: "writer"
+   image: salim-abdal.jpg
+
+rinaz:
+   name: "Rinaz Sino"
+   siterole: "writer"
+
+faysal:
+   name: "Faysal Saleh"
+   siterole: "writer"
+
+abdalkareem:
+   name: "Abdalkareem Alblekh"
+   siterole: "writer"
+
+michael:
+   name: "Michael Sabbagh"
+   siterole: "writer"
