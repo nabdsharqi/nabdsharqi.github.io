@@ -7,8 +7,8 @@ header:
     title: في عين العاصفة ؟
     image_fullwidth: "eye-storm-2.jpg"
 image:
-    thumb:  eye-storm-2.jpg
-    homepage: eye-storm.jpg
+    title:  eye-storm-2.jpg
+    homepage: eye-storm-2.jpg
 categories:
     - east-west
 comments: false

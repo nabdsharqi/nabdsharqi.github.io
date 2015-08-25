@@ -12,6 +12,7 @@ comments: false
 show_meta: true
 header: no
 author: hasan
+author-image: hasan-shahoot.jpg
 ---
 في ليالي الغربة الملوثة, والقلوب المحترقة بنارِ الحنين
 

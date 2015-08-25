@@ -37,7 +37,7 @@ header:
 *
 {% endcomment %}
 <div class="row t60">
-	{% if page.widget1.title %}
+	<!-- {% if page.widget1.title %}
 		{% include frontpage-widget widget=page.widget1 %}
 	{% endif %}
 
@@ -49,7 +49,28 @@ header:
 
 	{% if page.widget3.title %}
 		{% include frontpage-widget widget=page.widget3 %}
-	{% endif %}
+	{% endif %} -->
+
+   {% for post in site.posts limit:3 %}
+
+      <div class="medium-3 columns frontpage-widget">
+      	<a href="{{ site.url }}{{ post.url }}">
+      		{% if post.image %}
+      				<img src="{{ site.url }}{{ site.urlimg }}{{ post.image.title }}" width="100%" alt="" />
+
+            {% elsif post.author-image %}
+                  <img src="{{ site.url }}{{ site.urlimg }}{{ post.author-image }}" width="100%" alt="" />
+            {% else %}
+
+      		{% endif %}
+      	</a>
+
+      	<h2 class="font-size-h3 t10">{{ post.title }}</h2>
+      	<p>{{ post.teaser }}</p>
+      	<p><a class="button tiny radius" href="{{ site.url }}{{ post.url }}">{{ site.data.language.more }}</a></p>
+      </div>
+
+   {% endfor %}
 
    <div class="medium-3 columns sidebar">
       {% include exec-sidebar %}
@@ -58,7 +79,7 @@ header:
 </div><!-- /.row -->
 
 <div class="row t60">
-	{% if page.widget1.title %}
+	<!-- {% if page.widget1.title %}
 		{% include frontpage-widget widget=page.widget1 %}
 	{% endif %}
 
@@ -71,6 +92,27 @@ header:
 	{% if page.widget3.title %}
 		{% include frontpage-widget widget=page.widget3 %}
 	{% endif %}
+    -->
+   {% for post in site.posts limit:3 offset:3 %}
+
+      <div class="medium-3 columns frontpage-widget">
+         <a href="{{ site.url }}{{ post.url }}">
+            {% if post.image %}
+                  <img src="{{ site.url }}{{ site.urlimg }}{{ post.image.title }}" width="100%" alt="" />
+
+            {% elsif post.author-image %}
+                  <img src="{{ site.url }}{{ site.urlimg }}{{ post.author-image }}" width="100%" alt="" />
+            {% else %}
+
+            {% endif %}
+         </a>
+
+         <h2 class="font-size-h3 t10">{{ post.title }}</h2>
+         <p>{{ post.teaser }}</p>
+         <p><a class="button tiny radius" href="{{ site.url }}{{ post.url }}">{{ site.data.language.more }}</a></p>
+      </div>
+
+   {% endfor %}
 
    <div class="medium-3 columns sidebar">
       {% include exec-sidebar-2 %}
@@ -110,7 +152,7 @@ header:
 
     <div class="row">
         <div class="medium-6 columns text-right">
-            {% for post in site.posts limit:1 %}
+            {% for post in site.posts limit:1 offset:6 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
@@ -123,7 +165,7 @@ header:
 
         <div class="medium-6 columns text-right">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts entries='3' offset='7' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}

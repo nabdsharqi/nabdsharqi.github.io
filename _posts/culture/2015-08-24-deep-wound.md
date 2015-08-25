@@ -9,6 +9,7 @@ comments: false
 show_meta: true
 header: no
 author: bassam
+author-image: bassam-hamida.jpg
 ---
 **هجرة**  
 عندما قرر الهجرة دفن قلبه في حديقة مدينته، وحمل حلمه في نعش بارد.  

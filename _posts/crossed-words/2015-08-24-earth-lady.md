@@ -12,6 +12,7 @@ comments: false
 show_meta: true
 header: no
 author: ammar
+author-image: ammar-jumaa.jpg
 ---
 سوريا ...سيدة اﻷرض على هذه اﻷرض
 

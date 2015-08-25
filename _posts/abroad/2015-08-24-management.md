@@ -9,6 +9,7 @@ comments: false
 show_meta: true
 header: no
 author: michael
+author-image: michael-sabbagh.jpg
 ---
 يقول الدكتور حنا فرج في تعريفه للمعرفة "هي القيام بسلوك محدد لإنجاز عمل ذهني أو مادي بناءا على معلومات سابقة من خلال ما تعلمه الفرد, وممارساته الاعتيادية "
 
