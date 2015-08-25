@@ -22,6 +22,7 @@
 {% elsif page.header.title %}
 
 <div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
+<!-- <div id="masthead-with-text" style="background-image: url('{{ site.urlimg }}{{page.header.image_fullwidth}}');"> -->
 	<div class="row">
 		<div class="small-12 columns">
 			<div class="masthead-title">{{ page.header.title }}</div>
@@ -54,7 +55,7 @@
 		<div class="small-12 columns" style="margin-top: 120px;">
 			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
 			<h1 class="text-right site-title">نبض شرقي</h1>
-			<h2 class="text-right site-subtitle">ثقافة، تنوير، إنسانية</h2>
+			<h2 class="text-right site-subtitle">وطن، تنوير، إنسان</h2>
 
 				<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}"> -->
 			</a>
