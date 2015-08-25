@@ -5,7 +5,9 @@ title:  "توماس مولر"
 teaser: " وضح نجم المنتخب الالماني ولاعب بايرن ميونيخ توماس موللر الاسباب التي دعته للقول بأنه لا يوجد في كرة القدم يستحق ان تكون قيمته المادية 100 مليون يورو,واضاف في حواره من سبورت 1 بأن احد المشجعين قد نادى عليه برجل ال100 مليون."
 categories:
     - fields
-header: no
+header:
+    title: توماس موللر
+    image_fullwidth: "thomas-muller.jpg"
 image:
     title: thomas-muller.jpg
     caption: Thomas Muller
