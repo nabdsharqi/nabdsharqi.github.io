@@ -55,11 +55,13 @@ header:
 
       <div class="medium-3 columns frontpage-widget">
       	<a href="{{ site.url }}{{ post.url }}">
-      		{% if post.image %}
+      		{% if post.image.title %}
       				<img src="{{ site.url }}{{ site.urlimg }}{{ post.image.title }}" width="100%" alt="" />
 
             {% elsif post.author-image %}
                   <img src="{{ site.url }}{{ site.urlimg }}{{ post.author-image }}" width="100%" alt="" />
+            {% elsif post.image.thumb %}
+                  <img src="{{ site.url }}{{ site.urlimg }}{{ post.image.thumb }}" width="100%" alt="" />
             {% else %}
 
       		{% endif %}
@@ -84,13 +86,14 @@ header:
 
       <div class="medium-3 columns frontpage-widget">
          <a href="{{ site.url }}{{ post.url }}">
-            {% if post.image %}
+            {% if post.image.title %}
                   <img src="{{ site.url }}{{ site.urlimg }}{{ post.image.title }}" width="100%" alt="" />
 
             {% elsif post.author-image %}
                   <img src="{{ site.url }}{{ site.urlimg }}{{ post.author-image }}" width="100%" alt="" />
+            {% elsif post.image.thumb %}
+                  <img src="{{ site.url }}{{ site.urlimg }}{{ post.image.thumb }}" width="100%" alt="" />
             {% else %}
-
             {% endif %}
          </a>
 
