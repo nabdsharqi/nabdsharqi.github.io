@@ -9,12 +9,12 @@
 
 		<!-- Output author details if some exist. -->
 		{% if author %}
-			<span itemprop="author" itemscope itemtype="http://schema.org/Person" class="pl20 text-right" style="font-size: 1.5rem;"> {{ author.name }}
+			<span itemprop="author" itemscope itemtype="http://schema.org/Person" class="pl20 text-right author" style="font-size: 1.5rem; color: #DF4949;"> {{ author.name }}
 			</span>
 		{% endif %}
 
 		{% if author.location %}
-			<span itemprop="author" itemscope>  <span itemprop="location" class="pl20"> {{ author.location }} </span>
+			<span itemprop="location" itemscope>  <span itemprop="location" class="pl20 location" > {{ author.location }} </span>
 		{% endif %}
 		<br />
 	</p>

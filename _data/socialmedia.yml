@@ -1,44 +1,29 @@
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/nabdsharqi
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "نبض شرقي على تويتر"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: http://facebook.com/pages/%D9%86%D8%A8%D8%B6-%D8%B4%D8%B1%D9%82%D9%8A/975137169215945
   class: icon-facebook
-  title: "Lass uns Freunde sein!"
+  title: "نبض شرقي على الفيسبوك"
 
-- name: Soundcloud
-  url: http://soundcloud.com/phlow
-  class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+# - name: Soundcloud
+#   url: http://soundcloud.com/phlow
+#   class: icon-soundcloud
+#   title: "Sounds und Downloads und mehr"
 
-# - name: GitHub
-#   url: http://github.com/phlow
-#   class: icon-github
-#   title: Code und mehr...
-#
+- name: Google Plus
+  url: http://plus.google.com/u/0/104600327080975018022/posts
+  class: fi-social-google-plus
+  title: نبض شرقي على غوغل بلس
+
 # - name: Instagram
 #   url: http://instagram.com/phlowmedia
 #   class: icon-instagram
 #   title: "Bilder und Impressionen mit und ohne Filter..."
-#
-# - name: Pinterest
-#   url: http://www.pinterest.com/phlowmedia/
-#   class: icon-pinterest
-#   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
-#
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/phlow/
-#   class: icon-cloud
-#   title: "Mixe, was sonst?"
-
-# - name: Xing
-#   url: https://www.xing.com/profile/Moritzmo_Sauer
-#   class: icon-xing
-#   title: Xing Profil

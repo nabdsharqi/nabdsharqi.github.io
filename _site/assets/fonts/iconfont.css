@@ -76,6 +76,7 @@
 .icon-vimeo:before,
 .icon-warning:before,
 .icon-xing:before,
+.icon-google-plus:before,
 .icon-youtube:before {
   display: inline-block;
   font-family: "iconfont";
@@ -146,3 +147,4 @@
 .icon-xing:before { content: "\f135"; }
 .icon-youtube:before { content: "\f132"; }
 .icon-map:before { content: "\f171"; }
+.icon-google-plus:before{content: "\f1ca"}
