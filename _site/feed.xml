@@ -5,12 +5,12 @@
 	<channel>
 		<title>Nabd Sharqi</title>
 		<description>موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية </description>
-		<link>/</link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://nabd-sharqi.com/</link>
+		<atom:link href="http://nabd-sharqi.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>في عين العاصفة ؟ </title>
-				<link>/east-west/eye-of-the-storm/</link>
+				<link>http://nabd-sharqi.com/east-west/eye-of-the-storm/</link>
 				<pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;من الواضح والجلي للجميع أن القامشلي تخطو رويداً رويداً لتدخل في عين العاصفة التي لطالما حاولت تجنبها في السنوات العجاف للأزمة السورية ،وهذه المدينة المَنسية منذ عقود استطاعت أن تحمي نفسها وتحمي أبناءها وتحتضن ضيوفها السوريين من باقي المدن المنكوبة ،وبذلت الكثير من الجهد لتكون حضناً آمناً لِمن احتمى بطيبة أهلها من سعير النار التي تلتهم الأرض السورية .&lt;/p&gt;
 
@@ -23,14 +23,14 @@
 
 &lt;p&gt;هذه ليست نظرة تشاؤمية ،ولا غاضبة ،ولا انفعالية بل هي وقفة مع الذات بعد أن تأكد أهل القامشلي إثر التفجير  الأخير أنهم يقفون في العراء لوحدهم ليصارعوا “ خيارات شمشون “ التي على ما يبدو ستصبح بصمة الأيام القادمة بعد أن أيقن الجميع أن هذه المدينة كانت “ أرملة المدن “ السورية ،ولن يملوا ليتركوها وحيدة كما وجدت على كتف نهرها اليتيم الجاف .&lt;/p&gt;
 
-&lt;!-- ![في عين العاصفة](/images/eye-storm.jpg) --&gt;
+&lt;!-- ![في عين العاصفة](http://nabd-sharqi.com/images/eye-storm.jpg) --&gt;
 </description>
-				<guid isPermaLink="true">/east-west/eye-of-the-storm/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/east-west/eye-of-the-storm/</guid>
 			</item>
 		
 			<item>
 				<title> رسالتان من المهجر </title>
-				<link>/abroad/two-letters/</link>
+				<link>http://nabd-sharqi.com/abroad/two-letters/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;…ارتدي الامي كما ترتدي الاشجار الهواء&lt;/p&gt;
 
@@ -60,14 +60,14 @@
 
 &lt;p&gt;….زنبقة حمراء انا على ضفة جدول شح فيه الماء و ما من ريح خريفية تكسرني و تطير بي الى ثرى الوطن …. عليه احيا بلا ماء&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/silva-melkon.jpg&quot; alt=&quot;Silva Melkon&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/silva-melkon.jpg&quot; alt=&quot;Silva Melkon&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/abroad/two-letters/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/abroad/two-letters/</guid>
 			</item>
 		
 			<item>
 				<title>توماس مولر</title>
-				<link>/fields/thomas-muller/</link>
+				<link>http://nabd-sharqi.com/fields/thomas-muller/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;وضح نجم المنتخب الالماني ولاعب بايرن ميونيخ توماس موللر الاسباب التي دعته للقول بأنه لا يوجد في كرة القدم يستحق ان تكون قيمته المادية 100 مليون يورو,واضاف في حواره من سبورت 1 بأن احد المشجعين قد نادى عليه برجل ال100 مليون وسأله كم يساوي القميص الذي يرتديه مما دفعه للشعور بالجنون,واشار الى ان البعض من الاخبار التي يتم فبركتها او تحريفها تحاول الترويج لوجود مضاربات مليونية في سوق بورصة انتقال اللاعبين,ومن تلك الاخبار ما نشرته احدى الصحف الانكليزية في عددها الذي صدر يوم الاربعاء الماضي والذي ادعت به ان نادي مانشستر يونايتد قد عرض 100 مليون يورو مقابل انتقال اللاعب توماس موللر من نادي بايرن ميونيخ واللعب في صفوف نادي مانشستر يونايتد والذي اكدت فيه على ان توماس موللر سيستلم مليون ونصف المليون يورو من النادي الانكليزي مرتبا شهريا,بالرغم من توماس موللر اكد اكثر من مرة على انه لا يرغب او يفكر حتى في الانتقال من النادي البافاري وانه قد قرر اعتزال اللعب وهو لاعبا في صفوف بايرن,واضاف بأن الصحف الانكليزية التي تنشر مثل هذه الاخبار هي صحف لا يمكن وصفها الا بالصحف التي تنشر اخبارا كاذبة وغير حقيقية وفي احسن الاحوال تفبرك مثل هذه الاخبار,&lt;/p&gt;
 
@@ -75,12 +75,12 @@
 
 &lt;p&gt;وتطرق للاندية التي لديها القدرة على وضع العراقيل امام مسيرة بايرن نحو الفوز بالالقاب فقال ان بروسيا دورتموند سيكون العقبة الكبى امام النادي البافاري في طريق الفوز بلقبي البوندسليغا وكأس المانيا,واضاف بان ومنذ فترة ليست بالقصيرة قد اعتبر بروسيا دورتموند التحدي الاكبر لبايرن ميونيخ والمنافس الاخطر للنادي البافاري في هذا الموسم وفي المواسم الماضية,واشار الى بروسيا دورتموند,والبرغم من تراجعه المخيف في المرحلة الاولى من الموسم الماضي الا انه تفوق على نفسه واصبح احد المنافسين الاقوياء على اللقب في الموسم الماضي,الذي لم يرغب بروسيا دورتموند ان ينهيه بدون الحصول على المركز الثاني في بطولة كأس المانيا,التي خرج بايرن منها بعد خسارته مباراة الدور النصف النهائي,وأضاف بأنه يضع بروسيا دورتموند دائما في قائمة المنافسين الاقوياء لبايرن ميونيخ التي تضم الى جانبه اندية ليفركوزن,فولفسبورغ وشالكة.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/fields/thomas-muller/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/fields/thomas-muller/</guid>
 			</item>
 		
 			<item>
 				<title> الاتحاد العام للمغتربين السوريين بالسويد .... ضوء في ليل الغربة </title>
-				<link>/abroad/syrian-club/</link>
+				<link>http://nabd-sharqi.com/abroad/syrian-club/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;يعمل الاتحاد العام للمغتربين السوريين في الفيسبوك على الوصول للجالية السورية ،والتي يتجاوز عددها 50 الخمسون ألفاً ،والإسهام في تفاعل الحضارات عبرالتوجه إلى شباب وشابات الجالية لتوعيتهم&lt;/p&gt;
 
@@ -96,12 +96,12 @@
 
 &lt;p&gt;وعلى الصعيد الرياضي يقيم الدورات الرياضية في كرة القدم والسباحة وغيرها،ومسابقات الشطرنج والبليارد وكرة الطاولة&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/abroad/syrian-club/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/abroad/syrian-club/</guid>
 			</item>
 		
 			<item>
 				<title>قريباً... السيلفي لدفع الفواتير وتحويل الأموال </title>
-				<link>/it/selfie/</link>
+				<link>http://nabd-sharqi.com/it/selfie/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;تُجري شركة “ماستر كارد” تجارب على الدفع بواسطة الصور الشخصيّة “السيلفي”. وفي بيان أصدرته “ماستر كارد” وتحالف الائتمان الفدرالي في الولايات .المتحدة،تعمل الشركتان على خطوةٍ جديدة، تُعتبر تحولاً تكنولوجياً مهماً، إذ تعمل على تجارب للدفع بواسطة التعرّف على الوجوه&lt;/p&gt;
 
@@ -109,12 +109,12 @@
 
 &lt;p&gt;.كذلك تعمل الشركة على إطلاق خدمة التحقق من المستخدم عبر بصمة اليد، والتي توفّرها الهواتف الذكيّة حالياً&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/it/selfie/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/it/selfie/</guid>
 			</item>
 		
 			<item>
 				<title>Rhino Season - موسم وحيد القرن</title>
-				<link>/art/rhino-season/</link>
+				<link>http://nabd-sharqi.com/art/rhino-season/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;يستمد المخرج بهمن قبادي قصة فلمه من حياة الشاعر صادق كامنجار الذي أمضى حوالي 27 سنة من عمره في سجون وأقبية  جمهورية إيران الإسلامية ،لا يغطي الفلم في طرحه الجانب الشخصي لسيرة شاعر سجين فحسب بل يغطي سيرة مجتمع عانى جميع أنواع القهر والاستبداد.&lt;/p&gt;
 
@@ -130,25 +130,25 @@
 
 &lt;p&gt;يتخطى الفلم الرتم الواقعي في كثير من الأحيان وهذا ما نلتمسه في مشهد هطول السلاحف من السماء وما جعل الأمر أكثر روعة هي موسيقا الملحن (كايهان كالهور) التي بدت كأنها قطعة غير منفصلة عن جميع مجريات القصة.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/art/rhino-season/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/art/rhino-season/</guid>
 			</item>
 		
 			<item>
 				<title>هذا هو التصميم الجديد لـ فيسبوك على الموبايل</title>
-				<link>/it/new-facebook/</link>
+				<link>http://nabd-sharqi.com/it/new-facebook/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;تستعد شركة “فيسبوك” لتغيير تصميم صفحة المستخدمين على الهواتف النقالة. إذ تنتقل الصورة الشخصية في التصميم الجديد إلى منتصف الشاشة، مع تقلص حجم الـ .Cover Photo، وكتابة الاسم تحت الصورة الشخصية. وقد يبدو التصميم الجديد مألوفاً للمستخدمين، إذ يشبه كثيراً تصميم +Google&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/facebook-redesign.jpeg&quot; alt=&quot;new facebook&quot; style=&quot;width: 350px; margin-right:25%;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/facebook-redesign.jpeg&quot; alt=&quot;new facebook&quot; style=&quot;width: 350px; margin-right:25%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ويقول المتحدث الرسمي باسم “فيسبوك”، لموقع The Next Web، إن “فيسبوك تختار تصميماً جديداً، للصفحات الشخصية على الهواتف النقالة، تظهر فيها المعلومات .بشكل أفضل”&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/it/new-facebook/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/it/new-facebook/</guid>
 			</item>
 		
 			<item>
 				<title> دور الإدارة المعرفية في الحفاظ على الهوية الإرثية للمغترب </title>
-				<link>/abroad/management/</link>
+				<link>http://nabd-sharqi.com/abroad/management/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;يقول الدكتور حنا فرج في تعريفه للمعرفة “هي القيام بسلوك محدد لإنجاز عمل ذهني أو مادي بناءا على معلومات سابقة من خلال ما تعلمه الفرد, وممارساته الاعتيادية “&lt;/p&gt;
 
@@ -166,14 +166,14 @@
 
 &lt;p&gt;بالنهاية لابد لنا من تحمل مسؤولياتنا كفئات شبابية قادمة حديثا والاستفادة من حداثة أدوات التفاعل الاجتماعي المستخدمة من قبل دول الاغتراب للقضاء على حالة الفوضى الفكرية وعيوب التفكك الأسري التي ألمًّت بمجتمعاتنا علاوة على أهمية المجتمع المعرفي في إعادة التوازن لحياتنا وحضارتنا وثقافتنا وإصلاح الخلل إن وجد .&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/michael-sabbagh.jpg&quot; alt=&quot;Michael Sabbagh&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/michael-sabbagh.jpg&quot; alt=&quot;Michael Sabbagh&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/abroad/management/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/abroad/management/</guid>
 			</item>
 		
 			<item>
 				<title>!ليالي الغربة </title>
-				<link>/culture/lonely-nights/</link>
+				<link>http://nabd-sharqi.com/culture/lonely-nights/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;في ليالي الغربة الملوثة, والقلوب المحترقة بنارِ الحنين&lt;/p&gt;
 
@@ -273,14 +273,14 @@
 
 &lt;p&gt;إلاّ أنا!!.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/hasan-shahoot.jpg&quot; alt=&quot;hasan shahoot&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/hasan-shahoot.jpg&quot; alt=&quot;hasan shahoot&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/culture/lonely-nights/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/culture/lonely-nights/</guid>
 			</item>
 		
 			<item>
 				<title> أسفار وحياة وأماكن</title>
-				<link>/abroad/lives-and-places/</link>
+				<link>http://nabd-sharqi.com/abroad/lives-and-places/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;المكان هو الحياة بالنسبة للإنسان. فالمكان الذي تعيش فيه هو حياتك، وهو حدود دنياك، فإنَّ دنياك تكون أكبر وأوسع، وكلّما كان محيط الأرض التي يعيش عليها الإنسان أكبر، كانت حياته أكبر وأشمل، وكلما وسّع أفقه، وزادت مداركه. والأسفار هي التي تحقق هذه المعادلة.&lt;/p&gt;
 
@@ -301,9 +301,9 @@
 
 &lt;p&gt;فالأسفار والحياة والأماكن، مجتمعةً، يكون إشراقها مفعماً بالحب، والراحة النفسية في حال العودة إليها، والاستظلال بفيئها، ولا نقول التباكي عليها، فإنّها بحق ترمز إلى كثير من الدوافع الذاتية التي تربطنا بالمكان، وتدفع بنا إلى أن نخلّد المكان الذي طبع في مخيلتنا ولا يمكن له أن يمحى من الذاكرة .التي احتفظت به، مهما كانت المبررات، وهذا سرّ الهي، ولايمكن أن يكون هناك أي تدخل لأي جهة ما من أن تمارس أي ضغوطات عليه لتخيله، أو الاحتفاظ به&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/abdalkareem-alblekh.jpg&quot; alt=&quot;Abdalkareem Alblekh&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/abdalkareem-alblekh.jpg&quot; alt=&quot;Abdalkareem Alblekh&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/abroad/lives-and-places/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/abroad/lives-and-places/</guid>
 			</item>
 		
 	</channel>
