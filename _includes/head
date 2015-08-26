@@ -38,8 +38,11 @@
 	{% if page.image.thumb %}
 		<meta property="og:image" content="{{ site.urlimg }}{{ page.image.thumb }}" />
 	{% else %}
-		<meta property="og:image" content="{{site.og_image }}" /> 
+		<meta property="og:image" content="{{site.og_image }}" />
 	{% endif %}
+
+	<meta property="og:image:width" content="450"/>
+<meta property="og:image:height" content="298"/>
 
 	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}" />{% endif %}
 
