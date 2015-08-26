@@ -10,6 +10,9 @@ show_meta: true
 header:
    title: أثرياء العالم يفقدون 182 مليار دولار في أسبوع
    image_fullwidth: "stock-market.jpg"
+image:
+   thumb: stock-market.jpg
+   homepage: stock-market.jpg
 author:
 ---
 
