@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://nabd-sharqi.com/sitemap.xml
+Sitemap: /sitemap.xml

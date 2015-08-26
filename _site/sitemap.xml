@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 37 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 39 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/404.html</loc>
+	<loc>/404.html</loc>
 	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/blog/archive/</loc>
+	<loc>/blog/archive/</loc>
 	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/atom.xml</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,388 +37,9 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/changelog/</loc>
+	<loc>/atom.xml</loc>
 	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/contact/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/culture.html</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/design/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/documentation/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/feed.xml</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/getting-started/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/headers/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/humans.txt</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/blog/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/fields/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/book-in-episodes/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/IT/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/east-west/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/newspapers/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/culture/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/crossed-words/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/abroad/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/art/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/info/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/redirect-page/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/roadmap/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/robots.txt</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/search/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/sitemap.xml</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -450,24 +54,9 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/syrians/</loc>
+	<loc>/changelog/</loc>
 	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/blog/page2/</loc>
-	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -480,9 +69,450 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/blog/page3/</loc>
+	<loc>/contact/</loc>
 	
-		<lastmod>2015-08-26T13:50:00+02:00</lastmod>
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/culture.html</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/design/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/documentation/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/feed.xml</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/getting-started/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/headers/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/humans.txt</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/fields/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/book-in-episodes/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/IT/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/east-west/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/newspapers/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/culture/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/crossed-words/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/abroad/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/art/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/info/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/redirect-page/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/roadmap/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/robots.txt</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>/search/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/sitemap.xml</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>/syrians/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page2/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page3/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page4/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page5/</loc>
+	
+		<lastmod>2015-08-26T16:11:49+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -494,11 +524,56 @@
 	
 
 
-<!-- Posts: 15 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 24 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/east-west/eye-of-the-storm/</loc>
+	<loc>/newspapers/trash/</loc>
+	
+		<lastmod>2015-08-26T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/newspapers/stock-market/</loc>
+	
+		<lastmod>2015-08-26T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/culture/qamishly-1/</loc>
+	
+		<lastmod>2015-08-26T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/east-west/terrorism-in-qamishly/</loc>
 	
 		<lastmod>2015-08-25T00:00:00+02:00</lastmod>
 	
@@ -513,7 +588,22 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/abroad/two-letters/</loc>
+	<loc>/east-west/eye-of-the-storm/</loc>
+	
+		<lastmod>2015-08-25T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/abroad/two-letters/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -528,7 +618,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/fields/thomas-muller/</loc>
+	<loc>/fields/thomas-muller/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -543,7 +633,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/abroad/syrian-club/</loc>
+	<loc>/abroad/syrian-club/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -558,7 +648,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/it/selfie/</loc>
+	<loc>/it/selfie/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -573,7 +663,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/art/rhino-season/</loc>
+	<loc>/art/rhino-season/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -588,7 +678,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/it/new-facebook/</loc>
+	<loc>/abroad/refugees/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -603,7 +693,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/abroad/management/</loc>
+	<loc>/it/new-facebook/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -618,7 +708,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/culture/lonely-nights/</loc>
+	<loc>/abroad/management/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -633,7 +723,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/abroad/lives-and-places/</loc>
+	<loc>/culture/lonely-nights/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -648,7 +738,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/crossed-words/earth-lady/</loc>
+	<loc>/abroad/lives-and-places/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -663,7 +753,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/culture/deep-wound/</loc>
+	<loc>/fields/history-is-joke/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -678,7 +768,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/crossed-words/chaos/</loc>
+	<loc>/abroad/germany-and-syrian-refugees/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -693,7 +783,7 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/culture/butterflies-falling/</loc>
+	<loc>/crossed-words/earth-lady/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	
@@ -708,7 +798,82 @@
 
 	
 	<url>
-	<loc>http://nabd-sharqi.com/crossed-words/bank-loans/</loc>
+	<loc>/episodes/dont-look-for-me/</loc>
+	
+		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/culture/deep-wound/</loc>
+	
+		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/fields/christiano-ronaldo/</loc>
+	
+		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/crossed-words/chaos/</loc>
+	
+		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/culture/butterflies-falling/</loc>
+	
+		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/crossed-words/bank-loans/</loc>
 	
 		<lastmod>2015-08-24T00:00:00+02:00</lastmod>
 	

@@ -17,7 +17,7 @@ melkon: # replace this with your info
 karam:
    name: "Karam"
    siterole: "Webmaster, Admin"
-   uri: 
+   uri:
    twitter: "@kmelkon"
 
 huda:
@@ -81,3 +81,28 @@ michael:
    name: "ميشيل صباغ"
    siterole: "writer"
    location: السويد
+
+abdalatheem:
+   name: "عبد العظيم العبد الله"
+   siterole: "writer"
+   location: سوريا - القامشلي
+
+nidal:
+   name: "نضال ججي"
+   siterole: "writer"
+   location: السويد
+
+anis:
+   name: "أنيس حنا مديواية"
+   siterole: "writer"
+   location: القامشلي
+
+duha:
+   name: "ضحى شمس"
+   siterole: "writer"
+   location: لبنان
+
+ali:
+   name: "علي رياح"
+   siterole: "writer"
+   location: العراق - بغداد

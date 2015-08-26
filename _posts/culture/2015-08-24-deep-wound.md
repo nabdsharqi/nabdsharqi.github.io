@@ -11,6 +11,9 @@ header: no
 author: bassam
 author-image: bassam-hamida.jpg
 ---
+<img src="{{ site.url }}/images/bassam-hamida.jpg" alt="bassam hamida" style="width: 200px;"/>
+
+
 **هجرة**  
 عندما قرر الهجرة دفن قلبه في حديقة مدينته، وحمل حلمه في نعش بارد.  
 
@@ -70,5 +73,3 @@ author-image: bassam-hamida.jpg
 
 **نزوح**  
 أنهكها النزوح، تمسّكَ أولادُها بثوبها خائفين: إلى أين ذاهبون ياأماه؟ رمقتهم بدمع أحرق الخدين وتابعوا.
-
-<img src="{{ site.url }}/images/bassam-hamida.jpg" alt="bassam hamida" style="width: 200px;"/>

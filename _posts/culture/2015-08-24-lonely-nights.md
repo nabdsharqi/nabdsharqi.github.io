@@ -14,6 +14,9 @@ header: no
 author: hasan
 author-image: hasan-shahoot.jpg
 ---
+<img src="{{ site.url }}/images/hasan-shahoot.jpg" alt="hasan shahoot" style="width: 200px;"/>
+
+
 في ليالي الغربة الملوثة, والقلوب المحترقة بنارِ الحنين
 
 ثَمّة فتاة ترسل لي صورها يومياً وأغاني
@@ -111,5 +114,3 @@ _ الجوع_ ( أن تخبركَ زوجتك, أن أطفالك البارحة �
 كل الذين قتلوا بالحرب شهداء
 
 إلاّ أنا!!.
-
-<img src="{{ site.url }}/images/hasan-shahoot.jpg" alt="hasan shahoot" style="width: 200px;"/>

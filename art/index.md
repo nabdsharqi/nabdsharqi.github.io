@@ -1,6 +1,6 @@
 ---
 layout: art-blog
-title: "blog"
+title: "فنون"
 teaser: "This is the Feeling Responsive blog Template."
 image:
    header: "unsplash_1.jpg"
