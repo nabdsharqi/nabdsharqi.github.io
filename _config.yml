@@ -25,7 +25,7 @@ author: karam
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 # url: 'http://nabd-sharqi.com'
-url: ''
+url: 'http://nabd-sharqi.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -168,7 +168,7 @@ msapplication_tilecolor:                "#fabb00"
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 og_image:                           "http://nabd-sharqi.com/images/palmyra_1.jpg"
-og_locale:                          "en_EN"
+og_locale:                          "ar_AR"
 og_type:                            "website"
 og_title:                           "نبض شرقي"
 og_description:                     "موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنساني"
