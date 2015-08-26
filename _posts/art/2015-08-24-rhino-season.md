@@ -8,6 +8,7 @@ categories:
 header: no
 image:
     title: monica-belluci.jpg
+    thumb:  monica-belluci.jpg
     caption: Monica Belluci
 comments: false
 show_meta: true

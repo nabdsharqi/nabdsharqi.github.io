@@ -9,6 +9,7 @@ header: no
 image:
     title: thomas-muller.jpg
     caption: Thomas Muller
+    thumb: thomas-muller.jpg
 comments: false
 show_meta: true
 author: faysal

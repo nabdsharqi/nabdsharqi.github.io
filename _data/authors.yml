@@ -6,65 +6,78 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 melkon: # replace this with your info
-  name: "Melkon Melkon"
+  name: "ملكون ملكون"
   siterole: "Admin, copywriter"
   uri: http://facebook.com/mmelkon
   image: melkon-melkon.jpg
   twitter: "@mkmc65"
+  location:
+
 # you can add more authors here
 karam:
    name: "Karam"
    siterole: "Webmaster, Admin"
-   uri: http://phlow.de/
+   uri: 
    twitter: "@kmelkon"
 
 huda:
-   name: "Huda Melkon"
+   name: "هدى ملكون"
    siterole: "writer"
    image: huda-melkon.jpg
+   location: سوريا
 
 silva:
-   name: "Silva Melkon"
+   name: "سيلفا ملكون"
    siterole: "writer"
    image: silva-melkon.jpg
+   location: سوريا
 
 hasan:
-   name: "Hasan Shahoot"
+   name: "حسن شاحوت"
    siterole: "writer"
    image: hasan-shahoot.jpg
+   location: لبنان - بيروت
 
 bassam:
-   name: "Bassam Hamida"
+   name: "بسام حميدة"
    siterole: "writer"
    image: bassam-hamida.jpg
+   location:
 
 ammar:
-   name: "Ammar Juma'a"
+   name: "عمار جمعة"
    siterole: "writer"
    image: ammar-jumaa.jpg
+   location:
 
 adel:
-   name: "Adel Amer"
+   name: "عادل عمر"
    siterole: "writer"
    image: adel-amer.jpg
+   location: نيويورك
 
 salim:
-   name: "Salim Abdal"
+   name: "سليم عبدال"
    siterole: "writer"
    image: salim-abdal.jpg
+   location:
 
 rinaz:
-   name: "Rinaz Sino"
+   name: "ريناز سينو"
    siterole: "writer"
+   location:
 
 faysal:
-   name: "Faysal Saleh"
+   name: "فيصل صالح"
    siterole: "writer"
+   location: ألمانيا- ميونيخ
 
 abdalkareem:
-   name: "Abdalkareem Alblekh"
+   name: "عبد الكريم البليخ"
    siterole: "writer"
+   location: النمسا
 
 michael:
-   name: "Michael Sabbagh"
+   name: "ميشيل صباغ"
    siterole: "writer"
+   location: السويد

@@ -1,34 +1,33 @@
 /* TEAM */
 
-Name: Melkon Melkon
+Name: ملكون ملكون
 Site: http://facebook.com/mmelkon
 Twitter: @mkmc65
 
 Name: Karam
-Site: http://phlow.de/
 Twitter: @kmelkon
 
-Name: Huda Melkon
+Name: هدى ملكون
 
-Name: Silva Melkon
+Name: سيلفا ملكون
 
-Name: Hasan Shahoot
+Name: حسن شاحوت
 
-Name: Bassam Hamida
+Name: بسام حميدة
 
-Name: Ammar Juma'a
+Name: عمار جمعة
 
-Name: Adel Amer
+Name: عادل عمر
 
-Name: Salim Abdal
+Name: سليم عبدال
 
-Name: Rinaz Sino
+Name: ريناز سينو
 
-Name: Faysal Saleh
+Name: فيصل صالح
 
-Name: Abdalkareem Alblekh
+Name: عبد الكريم البليخ
 
-Name: Michael Sabbagh
+Name: ميشيل صباغ
 
 
 /* THANKS */
