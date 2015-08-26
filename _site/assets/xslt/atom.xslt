@@ -32,7 +32,7 @@
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" />
 	<meta name="description" content="موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية " />
 
-	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167"/>
+	<link rel="author" href="https://plus.google.com/+karammelkon/posts"/>
 
 	
 
@@ -490,7 +490,7 @@
           </div><!-- /.large-6.columns -->
 
           <div class="medium-6 large-5 columns text-right right shadow-black">
-            <h5 class="shadow-black">توصلوا معنا</h5>
+            <h5 class="shadow-black">تواصلوا معنا</h5>
 
               :للاتصال و إرسال المواد على أحد الايميلين التاليين
               <a href="mailto:nabdsharqi@gmail.com">nabdsharqi@gmail.com</a>
@@ -509,7 +509,7 @@
         <nav class="row">
           <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
             <p>
-              Handmade 
+              Handmade
               by&nbsp;<a href="">Karam</a>
               with&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
               based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
