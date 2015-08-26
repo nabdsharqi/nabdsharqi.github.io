@@ -1,5 +1,5 @@
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
-
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 {% if page.header.image_fullwidth %}
 <script>
     $("#masthead").backstretch("{{ site.url }}{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
