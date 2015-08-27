@@ -5,14 +5,14 @@
 	<channel>
 		<title>Nabd Sharqi</title>
 		<description>موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية </description>
-		<link>/</link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://nabd-sharqi.com/</link>
+		<atom:link href="http://nabd-sharqi.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>زبالة ماري انطوانيت </title>
-				<link>/newspapers/trash/</link>
+				<link>http://nabd-sharqi.com/newspapers/trash/</link>
 				<pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;/images/duha-shams.jpg&quot; alt=&quot;duha shams&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/duha-shams.jpg&quot; alt=&quot;duha shams&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;شو مالك؟ عم تضحكي؟&lt;/p&gt;
 
@@ -74,12 +74,12 @@
 
 &lt;p&gt;بصوت واطي “الف.. ع المتكي.. هين”!. عفوا يعني، بس انو هيدا من الادب الشعبي. يعني كتير معبّر ما هيك؟&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/newspapers/trash/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/newspapers/trash/</guid>
 			</item>
 		
 			<item>
 				<title>!!نبض شرقي ترصد أحوال القامشلي تحت رحمة التجار وغضب الإرهاب</title>
-				<link>/east-west/terrorism-in-qamishly/</link>
+				<link>http://nabd-sharqi.com/east-west/terrorism-in-qamishly/</link>
 				<pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;//خاص بنبض شرقي//&lt;/p&gt;
 
@@ -93,12 +93,12 @@
 
 &lt;p&gt;أمّا الشابة ((نيركز سعود)) فيبقى وجعها جرائم الإرهاب وانفجاراتهم التي تضرب المدينة وأهلها الآمنين بين الحين والآخر، ولا تفرق بين غني أو فقير ولا بين مسلم أو مسيحي، والكل ضحية إجرامهم الطفل والضرير وكبير السن، ومع ذلك صمود المدينة حاضر وجمالها بكل ألوانها باق، فجميع .الدماء تختلط عند الشهادة فتزداد المدينة قوة ومنعةً&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/east-west/terrorism-in-qamishly/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/east-west/terrorism-in-qamishly/</guid>
 			</item>
 		
 			<item>
 				<title>مؤشر بلومبرغ: أثرياء العالم يفقدون 182 مليار دولار في أسبوع </title>
-				<link>/newspapers/stock-market/</link>
+				<link>http://nabd-sharqi.com/newspapers/stock-market/</link>
 				<pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;خسر أغنى 400 شخص حول العالم نحو 182 مليار دولار من مجموع ثرواتهم خلال الأسبوع الماضي فقط بعد التراجع الحاد في الأسواق العالمية بحسب .مؤشر بلومبرغ&lt;/p&gt;
 
@@ -120,14 +120,14 @@
 
 &lt;p&gt;// جريدة الشاهد الكويتية //&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/newspapers/stock-market/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/newspapers/stock-market/</guid>
 			</item>
 		
 			<item>
 				<title>!!!لا تبحث عني </title>
-				<link>/culture/qamishly-1/</link>
+				<link>http://nabd-sharqi.com/culture/qamishly-1/</link>
 				<pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;/images/nidal-jeje.jpg&quot; alt=&quot;nidal jeje&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/nidal-jeje.jpg&quot; alt=&quot;nidal jeje&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;سأعزف حزني&lt;/p&gt;
 
@@ -185,12 +185,12 @@
 
 &lt;p&gt;..الضياع فيي&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/culture/qamishly-1/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/culture/qamishly-1/</guid>
 			</item>
 		
 			<item>
 				<title>في عين العاصفة ؟ </title>
-				<link>/east-west/eye-of-the-storm/</link>
+				<link>http://nabd-sharqi.com/east-west/eye-of-the-storm/</link>
 				<pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;من الواضح والجلي للجميع أن القامشلي تخطو رويداً رويداً لتدخل في عين العاصفة التي لطالما حاولت تجنبها في السنوات العجاف للأزمة السورية ،وهذه المدينة المَنسية منذ عقود استطاعت أن تحمي نفسها وتحمي أبناءها وتحتضن ضيوفها السوريين من باقي المدن المنكوبة ،وبذلت الكثير من الجهد لتكون حضناً آمناً لِمن احتمى بطيبة أهلها من سعير النار التي تلتهم الأرض السورية .&lt;/p&gt;
 
@@ -203,14 +203,14 @@
 
 &lt;p&gt;هذه ليست نظرة تشاؤمية ،ولا غاضبة ،ولا انفعالية بل هي وقفة مع الذات بعد أن تأكد أهل القامشلي إثر التفجير  الأخير أنهم يقفون في العراء لوحدهم ليصارعوا “ خيارات شمشون “ التي على ما يبدو ستصبح بصمة الأيام القادمة بعد أن أيقن الجميع أن هذه المدينة كانت “ أرملة المدن “ السورية ،ولن يملوا ليتركوها وحيدة كما وجدت على كتف نهرها اليتيم الجاف .&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/east-west/eye-of-the-storm/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/east-west/eye-of-the-storm/</guid>
 			</item>
 		
 			<item>
 				<title> رسالتان من المهجر </title>
-				<link>/abroad/two-letters/</link>
+				<link>http://nabd-sharqi.com/abroad/two-letters/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;/images/silva-melkon.jpg&quot; alt=&quot;Silva Melkon&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;http://nabd-sharqi.com/images/silva-melkon.jpg&quot; alt=&quot;Silva Melkon&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…ارتدي الامي كما ترتدي الاشجار الهواء&lt;/p&gt;
 
@@ -240,12 +240,12 @@
 
 &lt;p&gt;….زنبقة حمراء انا على ضفة جدول شح فيه الماء و ما من ريح خريفية تكسرني و تطير بي الى ثرى الوطن …. عليه احيا بلا ماء&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/abroad/two-letters/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/abroad/two-letters/</guid>
 			</item>
 		
 			<item>
 				<title>توماس مولر</title>
-				<link>/fields/thomas-muller/</link>
+				<link>http://nabd-sharqi.com/fields/thomas-muller/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;وضح نجم المنتخب الالماني ولاعب بايرن ميونيخ توماس موللر الاسباب التي دعته للقول بأنه لا يوجد في كرة القدم يستحق ان تكون قيمته المادية 100 مليون يورو,واضاف في حواره من سبورت 1 بأن احد المشجعين قد نادى عليه برجل ال100 مليون وسأله كم يساوي القميص الذي يرتديه مما دفعه للشعور بالجنون,واشار الى ان البعض من الاخبار التي يتم فبركتها او تحريفها تحاول الترويج لوجود مضاربات مليونية في سوق بورصة انتقال اللاعبين,ومن تلك الاخبار ما نشرته احدى الصحف الانكليزية في عددها الذي صدر يوم الاربعاء الماضي والذي ادعت به ان نادي مانشستر يونايتد قد عرض 100 مليون يورو مقابل انتقال اللاعب توماس موللر من نادي بايرن ميونيخ واللعب في صفوف نادي مانشستر يونايتد والذي اكدت فيه على ان توماس موللر سيستلم مليون ونصف المليون يورو من النادي الانكليزي مرتبا شهريا,بالرغم من توماس موللر اكد اكثر من مرة على انه لا يرغب او يفكر حتى في الانتقال من النادي البافاري وانه قد قرر اعتزال اللعب وهو لاعبا في صفوف بايرن,واضاف بأن الصحف الانكليزية التي تنشر مثل هذه الاخبار هي صحف لا يمكن وصفها الا بالصحف التي تنشر اخبارا كاذبة وغير حقيقية وفي احسن الاحوال تفبرك مثل هذه الاخبار,&lt;/p&gt;
 
@@ -253,12 +253,12 @@
 
 &lt;p&gt;وتطرق للاندية التي لديها القدرة على وضع العراقيل امام مسيرة بايرن نحو الفوز بالالقاب فقال ان بروسيا دورتموند سيكون العقبة الكبى امام النادي البافاري في طريق الفوز بلقبي البوندسليغا وكأس المانيا,واضاف بان ومنذ فترة ليست بالقصيرة قد اعتبر بروسيا دورتموند التحدي الاكبر لبايرن ميونيخ والمنافس الاخطر للنادي البافاري في هذا الموسم وفي المواسم الماضية,واشار الى بروسيا دورتموند,والبرغم من تراجعه المخيف في المرحلة الاولى من الموسم الماضي الا انه تفوق على نفسه واصبح احد المنافسين الاقوياء على اللقب في الموسم الماضي,الذي لم يرغب بروسيا دورتموند ان ينهيه بدون الحصول على المركز الثاني في بطولة كأس المانيا,التي خرج بايرن منها بعد خسارته مباراة الدور النصف النهائي,وأضاف بأنه يضع بروسيا دورتموند دائما في قائمة المنافسين الاقوياء لبايرن ميونيخ التي تضم الى جانبه اندية ليفركوزن,فولفسبورغ وشالكة.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/fields/thomas-muller/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/fields/thomas-muller/</guid>
 			</item>
 		
 			<item>
 				<title> الاتحاد العام للمغتربين السوريين بالسويد .... ضوء في ليل الغربة </title>
-				<link>/abroad/syrian-club/</link>
+				<link>http://nabd-sharqi.com/abroad/syrian-club/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;يعمل الاتحاد العام للمغتربين السوريين في الفيسبوك على الوصول للجالية السورية ،والتي يتجاوز عددها 50 الخمسون ألفاً ،والإسهام في تفاعل الحضارات عبرالتوجه إلى شباب وشابات الجالية لتوعيتهم&lt;/p&gt;
 
@@ -274,12 +274,12 @@
 
 &lt;p&gt;وعلى الصعيد الرياضي يقيم الدورات الرياضية في كرة القدم والسباحة وغيرها،ومسابقات الشطرنج والبليارد وكرة الطاولة&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/abroad/syrian-club/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/abroad/syrian-club/</guid>
 			</item>
 		
 			<item>
 				<title>قريباً... السيلفي لدفع الفواتير وتحويل الأموال </title>
-				<link>/it/selfie/</link>
+				<link>http://nabd-sharqi.com/it/selfie/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;تُجري شركة “ماستر كارد” تجارب على الدفع بواسطة الصور الشخصيّة “السيلفي”. وفي بيان أصدرته “ماستر كارد” وتحالف الائتمان الفدرالي في الولايات .المتحدة،تعمل الشركتان على خطوةٍ جديدة، تُعتبر تحولاً تكنولوجياً مهماً، إذ تعمل على تجارب للدفع بواسطة التعرّف على الوجوه&lt;/p&gt;
 
@@ -287,12 +287,12 @@
 
 &lt;p&gt;.كذلك تعمل الشركة على إطلاق خدمة التحقق من المستخدم عبر بصمة اليد، والتي توفّرها الهواتف الذكيّة حالياً&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/it/selfie/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/it/selfie/</guid>
 			</item>
 		
 			<item>
 				<title>Rhino Season - موسم وحيد القرن</title>
-				<link>/art/rhino-season/</link>
+				<link>http://nabd-sharqi.com/art/rhino-season/</link>
 				<pubDate>Mon, 24 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;يستمد المخرج بهمن قبادي قصة فلمه من حياة الشاعر صادق كامنجار الذي أمضى حوالي 27 سنة من عمره في سجون وأقبية  جمهورية إيران الإسلامية ،لا يغطي الفلم في طرحه الجانب الشخصي لسيرة شاعر سجين فحسب بل يغطي سيرة مجتمع عانى جميع أنواع القهر والاستبداد.&lt;/p&gt;
 
@@ -308,7 +308,7 @@
 
 &lt;p&gt;يتخطى الفلم الرتم الواقعي في كثير من الأحيان وهذا ما نلتمسه في مشهد هطول السلاحف من السماء وما جعل الأمر أكثر روعة هي موسيقا الملحن (كايهان كالهور) التي بدت كأنها قطعة غير منفصلة عن جميع مجريات القصة.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/art/rhino-season/</guid>
+				<guid isPermaLink="true">http://nabd-sharqi.com/art/rhino-season/</guid>
 			</item>
 		
 	</channel>

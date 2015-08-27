@@ -11,9 +11,9 @@
 	<title>Atom Feed (Styled)</title>
 	<link href="//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css" />
+	<link rel="stylesheet" type="text/css" href="http://nabd-sharqi.com/assets/css/styles_feeling_responsive.css" />
 
-	<script src="/assets/js/modernizr.min.js"></script>
+	<script src="http://nabd-sharqi.com/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -39,67 +39,67 @@
 
 
 	
-	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="http://nabd-sharqi.com/assets/img/favicon-32x32.png" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="http://nabd-sharqi.com/assets/img/touch-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-180x180-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-152x152-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-144x144-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-120x120-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-114x114-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-76x76-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-72x72-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />	
+	<link rel="apple-touch-icon-precomposed" href="http://nabd-sharqi.com/assets/img/apple-touch-icon-precomposed.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png" />
+	<meta name="msapplication-TileImage" content="http://nabd-sharqi.com/assets/img/msapplication_tileimage.png" />
 
 
 
@@ -110,20 +110,25 @@
 
 
 	<!-- Facebook Optimization -->
-	<meta property="og:locale" content="en_EN" />
+	<meta property="og:locale" content="ar_AR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية " />
-	<meta property="og:url" content="//assets/xslt/atom.xslt" />
+	<meta property="og:url" content="http://nabd-sharqi.com//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Nabd Sharqi" />
 	
+		<meta property="og:image" content="http://nabd-sharqi.com/images/palmyra_1.jpg" />
+	
+
+	<meta property="og:image:width" content="450"/>
+<meta property="og:image:height" content="298"/>
 
 	
 
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="/humans.txt" />
+	<link type="text/plain" rel="author" href="http://nabd-sharqi.com/humans.txt" />
 
 	
 
@@ -139,7 +144,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href=""  > Nabd Sharqi</a></h1>
+      <h1 class="show-for-small-only"><a href="http://nabd-sharqi.com"  > Nabd Sharqi</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -158,7 +163,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/newspapers/index.html">مدونات - جرائد</a></li>
+              <li ><a href="http://nabd-sharqi.com/newspapers/index.html">مدونات - جرائد</a></li>
 
             
             
@@ -174,7 +179,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/IT/index.html">IT</a></li>
+              <li ><a href="http://nabd-sharqi.com/IT/index.html">IT</a></li>
 
             
             
@@ -190,7 +195,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/book-in-episodes/index.html">كتاب في حلقات</a></li>
+              <li ><a href="http://nabd-sharqi.com/book-in-episodes/index.html">كتاب في حلقات</a></li>
 
             
             
@@ -206,7 +211,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/abroad/index.html">مهاجرون</a></li>
+              <li ><a href="http://nabd-sharqi.com/abroad/index.html">مهاجرون</a></li>
 
             
             
@@ -222,7 +227,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/fields/index.html">ملاعب</a></li>
+              <li ><a href="http://nabd-sharqi.com/fields/index.html">ملاعب</a></li>
 
             
             
@@ -238,7 +243,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/art/index.html">فنون</a></li>
+              <li ><a href="http://nabd-sharqi.com/art/index.html">فنون</a></li>
 
             
             
@@ -254,7 +259,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/crossed-words/index.html">أفكار متقاطعة</a></li>
+              <li ><a href="http://nabd-sharqi.com/crossed-words/index.html">أفكار متقاطعة</a></li>
 
             
             
@@ -270,7 +275,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/culture/index.html">فضاءات ثقافية</a></li>
+              <li ><a href="http://nabd-sharqi.com/culture/index.html">فضاءات ثقافية</a></li>
 
             
             
@@ -286,7 +291,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/east-west/index.html">شرق - غرب</a></li>
+              <li ><a href="http://nabd-sharqi.com/east-west/index.html">شرق - غرب</a></li>
 
             
             
@@ -302,7 +307,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="/">الصفحة الرئيسية</a></li>
+              <li ><a href="http://nabd-sharqi.com/">الصفحة الرئيسية</a></li>
 
             
             
@@ -404,8 +409,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="" title="Nabd Sharqi – Nabd Sharqi">
-				<!-- <img src="/assets/img/logo.png" alt="Nabd Sharqi – Nabd Sharqi"> -->
+			<a id="logo" href="http://nabd-sharqi.com" title="Nabd Sharqi – Nabd Sharqi">
+				<!-- <img src="http://nabd-sharqi.com/assets/img/logo.png" alt="Nabd Sharqi – Nabd Sharqi"> -->
 				<h1 class="text-right blog-title">نبض شرقي</h1>
 			</a>
 		</div><!-- /.small-12.columns -->
@@ -485,7 +490,7 @@
 
             <p class="shadow-black">
               موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية 
-              <a href="/info/"> المزيد</a>
+              <a href="http://nabd-sharqi.com/info/"> المزيد</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -531,7 +536,7 @@
       </div><!-- /#subfooter -->
     </footer>
 
-		<script src="/assets/js/javascript.min.js"></script>
+		<script src="http://nabd-sharqi.com/assets/js/javascript.min.js"></script>
 
 
 
