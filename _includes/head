@@ -1,9 +1,7 @@
 	<meta charset="utf-8" />
 
-	<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:og="http://ogp.me/ns#"
-      xmlns:fb="http://www.facebook.com/2008/fbml">
-		
+	<html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	<link href="//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
