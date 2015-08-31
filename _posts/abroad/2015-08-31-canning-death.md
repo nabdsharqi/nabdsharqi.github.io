@@ -15,7 +15,6 @@ image:
    thumb: hospital.jpg
 author: melkon
 ---
-<img src="{{ site.url }}/images/abdlkareem-blekh-2.jpg" alt="Blekh" style="width: 200px;"/>
 
 ..وأخيراً وعلى ما يبدو ليس آخراً
 
