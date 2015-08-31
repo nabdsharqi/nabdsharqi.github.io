@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Nabd Sharqi</title>
+		<title>نبض شرقي</title>
 		<description>موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية </description>
 		<link>http://nabd-sharqi.com/</link>
 		<atom:link href="http://nabd-sharqi.com/feed.xml" rel="self" type="application/rss+xml" />

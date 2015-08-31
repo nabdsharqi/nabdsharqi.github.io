@@ -35,21 +35,6 @@ format: post
 				</span>
 			</header>
 
-         {% if author %}
-             <!-- <span> -->
-                 <!-- Personal Info. -->
-                  <!-- <a href="{{ author.web }}" target="_blank">{{ author.name }} </a> بقلم -->
-             <!-- </span> -->
-         	<!-- <a href="www.twitter.com/{{site.data.authors.twitter}}">melkon's twitter</a> -->
-				<!-- <img src="{{ site.url }}/images/{{author.image}}" alt="{{author.name}}" style="width: 200px;"/> -->
-         {% endif %}
-
-
-			{% if page.teaser %}
-			<p class="teaser" itemprop="description">
-				{{ page.teaser }}
-			</p>
-			{% endif %}
 
 			<span itemprop="articleSection">
 			{{ content }}
@@ -58,6 +43,9 @@ format: post
 			{% if page.show_meta == true %}
 			{% include meta_information %}
 			{% endif %}
+
+
+			{% include share-page %}
 
 			{% if page.comments == true %}
 			{% include comments %}
