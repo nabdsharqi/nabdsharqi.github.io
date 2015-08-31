@@ -24,7 +24,7 @@ huda:
    name: "هدى ملكون"
    siterole: "writer"
    image: huda-melkon.jpg
-   location: سوريا
+   location:  سوريا - القامشلي
 
 silva:
    name: "سيلفا ملكون"
@@ -106,3 +106,13 @@ ali:
    name: "علي رياح"
    siterole: "writer"
    location: العراق - بغداد
+
+milad:
+   name: "ميلاد باهي"
+   siterole: "writer"
+   location: السويد
+
+victoria:
+   name: "فيكتوريا جابلي"
+   siterole: "writer"
+   location: ألمانيا

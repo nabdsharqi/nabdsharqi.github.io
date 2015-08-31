@@ -12,7 +12,7 @@ title: "نبض شرقي"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Nabd Sharqi"
+slogan: "نبض شرقي"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -167,8 +167,8 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "https://farm1.staticflickr.com/609/20818621348_991f8c3f67_k.jpg"
-# og_image:                           "http://nabd-sharqi.com/images/palmyra_1.jpg"
+# og_image:                           "https://farm1.staticflickr.com/609/20818621348_991f8c3f67_k.jpg"
+og_image:                           "http://nabd-sharqi.com/images/palmyra_1.jpg"
 og_locale:                          "ar_AR"
 og_type:                            "website"
 og_title:                           "نبض شرقي"
