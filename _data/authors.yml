@@ -116,3 +116,23 @@ victoria:
    name: "فيكتوريا جابلي"
    siterole: "writer"
    location: ألمانيا
+
+george:
+   name: "جورج دوشي"
+   siterole: "writer"
+   location: السويد
+
+amjad:
+   name: "  أمجد معلا"
+   siterole: "writer"
+   location: الاردن
+
+bassel:
+   name: "باسل حنا"
+   siterole: "writer"
+   location: ألمانيا
+
+maarouf:
+   name: "معروف عازار"
+   siterole: "writer"
+   location: السويد

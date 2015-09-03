@@ -158,6 +158,46 @@ callback([
   {
     "text": " الكاتب الافتراضي ",
     "href": "/crossed-words/virtual-author/"
+  } ,
+
+  {
+    "text": "صرخة ",
+    "href": "/culture/ascream/"
+  } ,
+
+  {
+    "text": " الحاوي  ",
+    "href": "/culture/container/"
+  } ,
+
+  {
+    "text": " فساد وطائفية ",
+    "href": "/crossed-words/corruption/"
+  } ,
+
+  {
+    "text": " مجنون  ",
+    "href": "/culture/crazy/"
+  } ,
+
+  {
+    "text": "موت طفل ... موت أمة وفضح لثقافة شريرة",
+    "href": "/east-west/death-ofa-baby/"
+  } ,
+
+  {
+    "text": "رحلة الموت ... مخاطر إذلال أعباء وقهر",
+    "href": "/abroad/death-trip/"
+  } ,
+
+  {
+    "text": "شفايني:هدفي مع المانيو لقب الشامبيونزليغ  ",
+    "href": "/fields/schfaini/"
+  } ,
+
+  {
+    "text": "True Story - ما تبقى من وجه القاتل",
+    "href": "/art/true-story/"
   } 
 
 ])
