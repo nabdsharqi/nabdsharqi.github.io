@@ -286,7 +286,7 @@ prose:
          label: "الكاتب"
          help: "اختر كاتب المقال"
          placeholder: " "
-         options: 'http://nabdsharqi.github.io/authors.jsonp'
+         options: "http://nabdsharqi.github.io/authors.jsonp"
 
     _posts/art:
       - name: "layout"
