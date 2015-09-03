@@ -11,10 +11,10 @@ categories:
 comments: false
 show_meta: true
 header: no
-author: bassel
+author: maarouf
 author-image: maarouf-azar.jpg
 ---
-<img src="{{ site.url }}/images/maarouf-azar.jpg" alt="maarouf-azar" style="width: 200px;"/>
+<img src="{{ site.url }}/images/maarouf-azar.jpg" alt="maarouf-azar"/>
 
 
 
