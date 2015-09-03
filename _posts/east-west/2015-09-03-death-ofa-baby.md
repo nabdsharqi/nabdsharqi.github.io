@@ -8,7 +8,6 @@ image:
     title: dead-sea-baby.jpg
     thumb:  dead-sea-baby.jpg
     homepage: dead-sea-baby.jpg
-    caption: " اللوحة الكاريكاتيرية للفنان ياسر احمد "
 categories:
     - east-west
 comments: false
