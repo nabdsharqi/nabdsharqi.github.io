@@ -240,3 +240,22 @@ google_analytics_tracking_id: UA-67086307-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
+
+
+# PROSE
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://nabd-sharqi.com'
+  relativeLinks: 'http://nabdsharqi.github.io/links.jsonp'
+  media: 'images'
+  # metadata:
+   #  _posts/abroad:
+   #  _posts/art:
+   #  _posts/book-in-episodes:
+   #  _posts/crossed-words:
+   #  _posts/culture:
+   #  _posts/east-west:
+   #  _posts/fields:
+   #  _posts/IT:
+   #  _posts/newspapers:
