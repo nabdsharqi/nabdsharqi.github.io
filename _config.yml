@@ -268,6 +268,11 @@ prose:
          element: "textarea"
          label: "teaser"
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "abroad"
+
     _posts/art:
       - name: "layout"
         field:
@@ -277,6 +282,20 @@ prose:
         field:
          element: "hidden"
          value: "فنون"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "art"
+
     _posts/book-in-episodes:
       - name: "layout"
         field:
@@ -286,6 +305,20 @@ prose:
         field:
          element: "hidden"
          value: "كتاب في حلقات"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "episodes"
+
     _posts/crossed-words:
       - name: "layout"
         field:
@@ -295,6 +328,20 @@ prose:
         field:
          element: "hidden"
          value: "أفكار متقاطعة"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "crossed-words"
+
     _posts/culture:
       - name: "layout"
         field:
@@ -304,6 +351,20 @@ prose:
         field:
          element: "hidden"
          value: "فضاءات ثقافية"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "culture"
+
     _posts/east-west:
       - name: "layout"
         field:
@@ -313,6 +374,20 @@ prose:
         field:
          element: "hidden"
          value: "شرق - غرب"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "east-west"
+
     _posts/fields:
       - name: "layout"
         field:
@@ -322,6 +397,20 @@ prose:
         field:
          element: "hidden"
          value: "ملاعب"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "fields"
+
     _posts/IT:
       - name: "layout"
         field:
@@ -331,6 +420,20 @@ prose:
         field:
          element: "hidden"
          value: "IT"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "it"
+
     _posts/newspapers:
       - name: "layout"
         field:
@@ -340,3 +443,16 @@ prose:
         field:
          element: "hidden"
          value: "مدونات و جرائد"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
+      - name: "categories"
+        field:
+         element: "hidden"
+         value: "newspapers"
