@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 42 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 43 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://nabd-sharqi.com/404.html</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/archive/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/atom.xml</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +54,24 @@
 
 	
 	<url>
+	<loc>http://nabd-sharqi.com/authors.jsonp</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://nabd-sharqi.com/changelog/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +86,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/contact/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +101,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/culture.html</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +116,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/design/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +131,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/documentation/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/feed.xml</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/getting-started/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +176,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/headers/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +191,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/humans.txt</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,67 +206,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/IT/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/newspapers/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/art/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/east-west/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,67 +221,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/fields/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/culture/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/crossed-words/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://nabd-sharqi.com/abroad/</loc>
-	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -341,7 +236,127 @@
 	<url>
 	<loc>http://nabd-sharqi.com/book-in-episodes/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/IT/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/newspapers/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/culture/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/crossed-words/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/art/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/abroad/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nabd-sharqi.com/east-west/</loc>
+	
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -356,7 +371,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/info/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -371,7 +386,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/links.jsonp</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -386,7 +401,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/redirect-page/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -401,7 +416,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/roadmap/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -416,7 +431,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/robots.txt</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -435,7 +450,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/search/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -450,7 +465,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/sitemap.xml</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -467,7 +482,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/syrians/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -482,7 +497,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/page2/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -497,7 +512,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/page3/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -512,7 +527,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/page4/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -527,7 +542,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/page5/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -542,7 +557,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/page6/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -557,7 +572,7 @@
 	<url>
 	<loc>http://nabd-sharqi.com/blog/page7/</loc>
 	
-		<lastmod>2015-09-03T14:08:11+02:00</lastmod>
+		<lastmod>2015-09-03T14:42:53+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
