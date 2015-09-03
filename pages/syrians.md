@@ -35,6 +35,6 @@ header:
 .فكلتاهما انتهت بعزلة ونوبات عصبية بعيدا عن الناس وقد تمكنت من كلتاهما الادوية العصبية ونوبات العزلة والانهيار
 
 
-<img src="{{ site.url }}/images/meryana-marash.jpg" alt="meryana-marash" style=""/>
+<img src="{{ site.url }}/images/meryana-marash.jpeg" alt="meryana-marash" style=""/>
 
 مريانا مراش
