@@ -1,0 +1,10 @@
+---
+---
+callback([
+{% for author in site.authors %}
+  {
+    "name": "{{author.author | replace:'"','\"'}}",
+    "value": "{{author}}"
+  } {% unless forloop.last %},{% endunless%}
+{% endfor %}
+])

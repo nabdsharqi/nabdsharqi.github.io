@@ -272,6 +272,21 @@ prose:
         field:
          element: "hidden"
          value: "abroad"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: 'http://nabdsharqi.github.io/authors.jsonp'
 
     _posts/art:
       - name: "layout"
@@ -295,6 +310,14 @@ prose:
         field:
          element: "hidden"
          value: "art"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/book-in-episodes:
       - name: "layout"
@@ -318,6 +341,14 @@ prose:
         field:
          element: "hidden"
          value: "episodes"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/crossed-words:
       - name: "layout"
@@ -341,6 +372,14 @@ prose:
         field:
          element: "hidden"
          value: "crossed-words"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/culture:
       - name: "layout"
@@ -364,6 +403,14 @@ prose:
         field:
          element: "hidden"
          value: "culture"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/east-west:
       - name: "layout"
@@ -387,6 +434,14 @@ prose:
         field:
          element: "hidden"
          value: "east-west"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/fields:
       - name: "layout"
@@ -410,6 +465,14 @@ prose:
         field:
          element: "hidden"
          value: "fields"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/IT:
       - name: "layout"
@@ -433,6 +496,14 @@ prose:
         field:
          element: "hidden"
          value: "it"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
 
     _posts/newspapers:
       - name: "layout"
@@ -456,3 +527,11 @@ prose:
         field:
          element: "hidden"
          value: "newspapers"
+      - name: "comments"
+        field:
+         element: "hidden"
+         value: false
+      - name: "show_meta"
+        field:
+         element: "hidden"
+         value: true
