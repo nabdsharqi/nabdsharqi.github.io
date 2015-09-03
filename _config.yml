@@ -255,43 +255,88 @@ prose:
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "مهاجرون"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+      - name: "teaser"
+        field:
+         element: "textarea"
+         label: "teaser"
+         help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
     _posts/art:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "فنون"
     _posts/book-in-episodes:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "كتاب في حلقات"
     _posts/crossed-words:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "أفكار متقاطعة"
     _posts/culture:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "فضاءات ثقافية"
     _posts/east-west:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "شرق - غرب"
     _posts/fields:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "ملاعب"
     _posts/IT:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "IT"
     _posts/newspapers:
       - name: "layout"
         field:
          element: "hidden"
          value: "page"
+      - name: "subheadline"
+        field:
+         element: "hidden"
+         value: "مدونات و جرائد"
