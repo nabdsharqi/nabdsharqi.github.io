@@ -246,12 +246,47 @@ google_analytics_tracking_id: UA-67086307-1
 # PROSE
 
 authors: &authors
+  - name: 'بدون كاتب'
+    value: ' '
   - name: 'ملكون ملكون'
     value: 'melkon'
   - name: 'هدى ملكون'
     value: 'huda'
   - name: 'سيلفا ملكون'
     value: 'silva'
+  - name: 'حسن شاحوت'
+    value: 'hasan'
+  - name: 'بسام حميدة'
+    value: 'bassam'
+  - name: 'عمار جمعة'
+    value: 'ammar'
+  - name: 'عادل عمر'
+    value: 'adel'
+  - name: 'سليم ملك عبدال'
+    value: 'salim'
+  - name: 'ريناز سينو'
+    value: 'rinaz'
+  - name: 'فيصل صالح'
+    value: 'faysal'
+  - name: 'عبد الكريم البليخ'
+    value: 'abdalkareem'
+  - name: 'ميشيل صباغ'
+    value: 'michael'
+  - name: 'عبد العظيم العبد الله'
+    value: 'abdalatheem'
+  - name: 'نضال ججي'
+    value: 'nidal'
+  - name: 'أنيس حنا مديواية'
+    value: 'anis'
+  - name: 'ضحى شمس'
+    value: 'duha'
+  - name: 'علي رياح'
+    value: 'ali'
+  - name: 'ميلاد باهي'
+    value: 'milad'
+  - name: 'فيكتوريا جابلي'
+    value: 'victoria'
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://nabd-sharqi.com'
@@ -326,6 +361,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/book-in-episodes:
       - name: "layout"
@@ -357,6 +399,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/crossed-words:
       - name: "layout"
@@ -388,6 +437,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/culture:
       - name: "layout"
@@ -419,6 +475,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/east-west:
       - name: "layout"
@@ -450,6 +513,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/fields:
       - name: "layout"
@@ -481,6 +551,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/IT:
       - name: "layout"
@@ -512,6 +589,13 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
 
     _posts/newspapers:
       - name: "layout"
@@ -543,3 +627,10 @@ prose:
         field:
          element: "hidden"
          value: true
+      - name: "author"
+        field:
+         element: "select"
+         label: "الكاتب"
+         help: "اختر كاتب المقال"
+         placeholder: " "
+         options: *authors
