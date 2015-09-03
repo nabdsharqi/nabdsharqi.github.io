@@ -244,6 +244,14 @@ google_analytics_tracking_id: UA-67086307-1
 
 
 # PROSE
+
+authors: &authors
+  - name: 'ملكون ملكون'
+    value: 'melkon'
+  - name: 'هدى ملكون'
+    value: 'huda'
+  - name: 'سيلفا ملكون'
+    value: 'silva'
 prose:
   rooturl: '_posts'
   siteurl: 'http://nabd-sharqi.com'
@@ -286,7 +294,7 @@ prose:
          label: "الكاتب"
          help: "اختر كاتب المقال"
          placeholder: " "
-         options: "http://nabdsharqi.github.io/authors.jsonp"
+         options: *authors
 
     _posts/art:
       - name: "layout"
