@@ -26,7 +26,7 @@ widget3:
 
 widget4:
    title: " بدء التأسيس "
-   url: 'http://nabd-sharqi.com/book-in-episodes/qamishly-2/'
+   url: 'http://nabd-sharqi.com/episodes/qamishly-2/'
    image: qamishli-french-home.jpg
    text: 'تأسست مدينة القامشلي في عام 1925 -1926 على أثر (كما ذكرنا سابقاً ) دخول القوات الفرنسية إلى هذه المنطقة , بقيادة المستشار الفرنسي الملازم TERIEH و سميت باسم (القامشلي) و تعني القصب باللغة التركية , و قد كان القصب يكسو بكثافة ضفتي نهر جغجغ '
 widget5:
