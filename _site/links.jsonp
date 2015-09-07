@@ -176,11 +176,6 @@ callback([
   } ,
 
   {
-    "text": " مجنون  ",
-    "href": "/culture/crazy/"
-  } ,
-
-  {
     "text": "موت طفل ... موت أمة وفضح لثقافة شريرة",
     "href": "/east-west/death-ofa-baby/"
   } ,
@@ -198,6 +193,31 @@ callback([
   {
     "text": "True Story - ما تبقى من وجه القاتل",
     "href": "/art/true-story/"
+  } ,
+
+  {
+    "text": " دفقة الحب الأولى وأبدية النهر  ",
+    "href": "/culture/first-love/"
+  } ,
+
+  {
+    "text": "!هل نكتفي بالصمت؟ ",
+    "href": "/crossed-words/is-silence-enough/"
+  } ,
+
+  {
+    "text": "كرة الجهاد انطلقت ... والسركيسيان مدرباً لها ",
+    "href": "/fields/jihad/"
+  } ,
+
+  {
+    "text": "مدوّنة وطن ترعى أطفال القامشلي إعلامياً",
+    "href": "/east-west/qamishli-kids/"
+  } ,
+
+  {
+    "text": "//2// القامشلي 1925 – 1958 ",
+    "href": "/episodes/qamishly-2/"
   } 
 
 ])
