@@ -218,6 +218,31 @@ callback([
   {
     "text": "//2// القامشلي 1925 – 1958 ",
     "href": "/episodes/qamishly-2/"
+  } ,
+
+  {
+    "text": " العزيزة روث ",
+    "href": "/culture/dear-ruth/"
+  } ,
+
+  {
+    "text": " هزيمة ",
+    "href": "/culture/defeat/"
+  } ,
+
+  {
+    "text": "عدد طالبي اللجوء لأوروبا ارتفع بنسبة 80%عن العام الماضي",
+    "href": "/abroad/refuge/"
+  } ,
+
+  {
+    "text": " فتاتان سوريتان متميزتان في الصحافة السويدية ",
+    "href": "/abroad/two-girls/"
+  } ,
+
+  {
+    "text": "اليونيسيف تحذر: أكثر من 13 مليون طفل عربي في مهب الأمية",
+    "href": "/east-west/unicef/"
   } 
 
 ])
