@@ -273,6 +273,46 @@ callback([
   {
     "text": "أوقفوا الحرب ...نستحق الحياة لا الموت  ",
     "href": "/abroad/stop-war/"
+  } ,
+
+  {
+    "text": "  شغب طفولي  ",
+    "href": "/culture/childish/"
+  } ,
+
+  {
+    "text": "ما بين تغريبتين",
+    "href": "/crossed-words/ma-bayn-taghribatayn/"
+  } ,
+
+  {
+    "text": "سبيشــال وان يحطــم أربعــة أرقــام قياسيــة عالميــة",
+    "href": "/fields/maurinho/"
+  } ,
+
+  {
+    "text": "ميسي رفض الانتقال لتشلسي بـ 500 مليون يورو",
+    "href": "/fields/messy/"
+  } ,
+
+  {
+    "text": "مصلحة الهجرة السويدية تدعو طالبي لعدم تصديق الشائعات",
+    "href": "/abroad/migrationsverket/"
+  } ,
+
+  {
+    "text": ".. العجيلي بيئة بدوية وفكر نيّر",
+    "href": "/culture/ojaily/"
+  } ,
+
+  {
+    "text": "خطة جديد لترسيخ القادمين الجدد للسويد  ",
+    "href": "/abroad/sweden-2/"
+  } ,
+
+  {
+    "text": " تركي رمضان: القارئ هو الرصيد الحقيقي والباقي للأديب",
+    "href": "/east-west/turkey-ramadan/"
   } 
 
 ])
