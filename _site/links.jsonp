@@ -313,6 +313,31 @@ callback([
   {
     "text": " تركي رمضان: القارئ هو الرصيد الحقيقي والباقي للأديب",
     "href": "/east-west/turkey-ramadan/"
+  } ,
+
+  {
+    "text": "الشامبيونزليغ رقمياً .... مع انطلاقة الموسم الجديد  ",
+    "href": "/fields/champions-league/"
+  } ,
+
+  {
+    "text": "لماذا لا يستطيع فقراء سوريا اللجوء إلى أوروبا؟",
+    "href": "/newspapers/poor-syrians-refuge/"
+  } ,
+
+  {
+    "text": " سيميوني :متفائل في المنافسة على اللقب الاوروبي",
+    "href": "/fields/simioni/"
+  } ,
+
+  {
+    "text": "المواطن السوري ... من الإذلال والتطهير إلى التهجير",
+    "href": "/abroad/syrian-citizen/"
+  } ,
+
+  {
+    "text": "الصليبُ الذي يظهرُ في البندورةِ",
+    "href": "/newspapers/tomato-cross/"
   } 
 
 ])
