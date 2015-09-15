@@ -338,6 +338,16 @@ callback([
   {
     "text": "الصليبُ الذي يظهرُ في البندورةِ",
     "href": "/newspapers/tomato-cross/"
+  } ,
+
+  {
+    "text": "//3// القامشلي 1925 – 1958 ",
+    "href": "/episodes/qamishly-3/"
+  } ,
+
+  {
+    "text": "رصافة هشام مدينة الشعر والجمال .. كنز أثري تحت الرمال",
+    "href": "/culture/rasafet-hisham/"
   } 
 
 ])
