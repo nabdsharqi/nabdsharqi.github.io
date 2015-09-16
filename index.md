@@ -26,7 +26,7 @@ widget3:
 widget4:
    title: "//3// القامشلي 1925 – 1958"
    url: 'http://nabd-sharqi.com/episodes/qamishly-3/'
-   image: qamishly.jpg.jpg
+   image: qamishly.jpg
    text: 'وكما اسلفنا وعند وصول القوات الفرنسية بقيادة الملازم تيريه الذي عينته السلطة المنتدبة حاكماً عاماً على محافظتي الجزيرة والفرات بصفة مستشار'
 widget5:
    title: "رصافة هشام
