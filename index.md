@@ -9,19 +9,19 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-   title: "المواطن السوري ... من الإذلال والتطهير إلى التهجّ"
-   url: 'http://nabd-sharqi.com/abroad/syrian-citizen/'
-   image: abdalkareem-alblekh.jpg
-   text: 'ما من شك أنّ الأوجاع التي بات يعيشها المواطن السوري، في هذه الفترة، بصورةٍ خاصة، وقبل أربع سنوات ونيّف على وجه التحقيق،تنبهت إلى اجترار الكثير من الإذلال والمعاناة والأسى الذي حلّ بالشعب السوري الأعزل الذي أصيب بطعنة في ا'
+   title: "القامشلي ... الخاصرة السورية"
+   url: 'http://nabd-sharqi.com/east-west/qamishly-syria/'
+   image: syria-kamishly-7.JPG
+   text: 'ما الذي يمكن أن يدهشك في مدينة ولدت فيها و ترعرعت فيها و خربشت ابجديات الطفولة فيها و سقط قلبك عشقاً للمرة الأولى فيها و داهمك الحنين لها كلما لوحت بالوداع لها و قطفت من شغاف القلب زهرتين يانعتين زرعتهما في ترابها الدافىء'
 widget2:
-   title: "الصليبُ الذي يظهرُ في البندورةِ"
-   url: 'http://nabd-sharqi.com/newspapers/tomato-cross/'
-   image: bassel-rafaia.jpg
-   text: 'الصليبُ الذي يظهرُ في البندورةِ الهولنديةِ ليسَ جديداً. فهذه دولةٌ كافرةٌ، تتآمرُ على الأمّة الإسلامية، وإنجازاتها العلمية وحضورها المتميّز في العالم. الجديدُ أنّ الصليبَ باتَ يظهرُ في البندورة الأردنية. لقد شاهدتُ ذلك بأمِّ '
+   title: "( خانة الـ ( يَكْ"
+   url: 'http://nabd-sharqi.com/crossed-words/yak/'
+   image: milad-bahe.jpg
+   text: 'عندما يكون الدجل والتخريف واستباحة دم الآخر تشريعاً من ضمن منظومة أي مُعتقد وتحت أي بند كان مهما كانت ضرورة تطبيق ذلك التشريع بنظر معتنقيه، فهذه جريمة بحق الإنسانية والبشرية والفكر.. قد يتفهّم البعض وأنا لستُ من بينهم'
 widget3:
-   title: "لماذا لا يستطيع فقراء سوريا اللجوء إلى أوروبا"
-   url: 'http://nabd-sharqi.com/newspapers/poor-syrians-refuge/'
-   image: infographic.jpg
+   title: "المنفصل((Detachment))"
+   url: 'http://nabd-sharqi.com/art/detached/'
+   image: detachment-official-poster.jpg
    text: ''
 widget4:
    title: " أوقفوا الحرب... نسحتق الحياة لا الموت"
