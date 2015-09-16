@@ -24,20 +24,21 @@ widget3:
    image: detachment-official-poster.jpg
    text: ''
 widget4:
-   title: " أوقفوا الحرب... نسحتق الحياة لا الموت"
-   url: 'http://nabd-sharqi.com/abroad/stop-war/'
-   image: camps-1.jpg
-   text: '!!!سوريا ستضلين تزرعين علامات الاستفهام والتعجب بكل أنحاء العالم ...؟؟؟؟ولا من مجُ أن '
+   title: "//3// القامشلي 1925 – 1958"
+   url: 'http://nabd-sharqi.com/episodes/qamishly-3/'
+   image: qamishly.jpg.jpg
+   text: 'وكما اسلفنا وعند وصول القوات الفرنسية بقيادة الملازم تيريه الذي عينته السلطة المنتدبة حاكماً عاماً على محافظتي الجزيرة والفرات بصفة مستشار'
 widget5:
-   title: "الشامبيونزليغ رقمياً .... مع انطلاقة الموسم الجديد "
+   title: "رصافة هشام
+   مدينة الشعر والجمال .. كنز أثري تحت الرمال"
+   url: 'http://nabd-sharqi.com/culture/rasafet-hisham/'
+   image: rasafet-hisham-5.jpg
+   text: 'اشتهرت البادية السورية، منذ أقدم العصور، بمدن وقصور ومنشآت، من كل نوع، رائعة التخطيط، مترفةَ البنيان، اندثر أكثرها، فلم يبقَ قائماً منها اليوم، سوى خرائب متناثرة في جَلبات الواحات، وبين الر'
+widget6:
+   title: "الشامبيونزليغ رقمياً .... مع انطلاقة الموسم الجديد  "
    url: 'http://nabd-sharqi.com/fields/champions-league/'
    image: champions-league.jpg
    text: 'مع انطلاقة الموسم الجديد للشامبيونزليغ البطولة الاوروبية الاهم والاثمن ،نلقي بعضا من الضوء على الارقام و الاحصائيات في ذاكرة منذ تسميتها بالشامبيونزليغ و حتى هذا الموسم'
-widget6:
-   title: "سيميوني :متفائل في المنافسة على اللقب الاوروبي"
-   url: 'http://nabd-sharqi.com/fields/simioni/'
-   image: semioni.jpg
-   text: 'يبقى مدرب اتلتيكو مدريد دييغو سيميوني متميزاً في عمله كمدرب استطاع ان يضع بصمته في ذاكرة الكرة الاسبانية و الاوروبية بسرعة قياسية'
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
