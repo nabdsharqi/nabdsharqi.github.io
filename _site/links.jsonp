@@ -363,6 +363,26 @@ callback([
   {
     "text": "( خانة الـ ( يَكْ ",
     "href": "/crossed-words/yak/"
+  } ,
+
+  {
+    "text": "مستخدمو Apple يواجهون مشاكل في تحديث iOS",
+    "href": "/it/apple/"
+  } ,
+
+  {
+    "text": "مصر وسوريا وراء زر عدم الإعجاب على فيسبوك",
+    "href": "/it/facebook-dislike/"
+  } ,
+
+  {
+    "text": "غوغل تدعم تويتر لنشر المقالات بطريقة فورية",
+    "href": "/it/google/"
+  } ,
+
+  {
+    "text": " حملة تبرعات للسوريين في سترينغنيس",
+    "href": "/abroad/raising-money/"
   } 
 
 ])
