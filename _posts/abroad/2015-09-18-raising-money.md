@@ -7,9 +7,7 @@ categories:
     - abroad
 comments: false
 show_meta: true
-header:
-   title: asdkl;amsdlkasm
-   image_fillwidth: church-choir-2.jpg
+header: no
 image:
    title: church-choir-2.jpg
    caption: church choir in strängnäs

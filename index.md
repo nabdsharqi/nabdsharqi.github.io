@@ -9,36 +9,35 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-   title: "القامشلي ... الخاصرة السورية"
-   url: 'http://nabd-sharqi.com/east-west/qamishly-syria/'
-   image: syria-kamishly-7.JPG
-   text: 'ما الذي يمكن أن يدهشك في مدينة ولدت فيها و ترعرعت فيها و خربشت ابجديات الطفولة فيها و سقط قلبك عشقاً للمرة الأولى فيها و داهمك الحنين لها كلما لوحت بالوداع لها و قطفت من شغاف القلب زهرتين يانعتين زرعتهما في ترابها الدافىء'
+   title: "مصر وسوريا وراء زر عدم الإعجاب على فيسبوك"
+   url: 'http://nabd-sharqi.com/it/facebook-dislike/'
+   image: dislike.jpg
+   text: 'أعلن الرئيس التنفيذي لموقع فيسبوك مارك زوكربيرغ أن الشركة تعمل على توفير زر (( عدم الإعجاب Dislike ))  خلال حديثه في جلسة الأسئلة والأجوبة التي تُبث بشكل مُباشر'
 widget2:
-   title: "( خانة الـ ( يَكْ"
-   url: 'http://nabd-sharqi.com/crossed-words/yak/'
-   image: milad-bahe.jpg
-   text: 'عندما يكون الدجل والتخريف واستباحة دم الآخر تشريعاً من ضمن منظومة أي مُعتقد وتحت أي بند كان مهما كانت ضرورة تطبيق ذلك التشريع بنظر معتنقيه، فهذه جريمة بحق الإنسانية والبشرية والفكر.. قد يتفهّم البعض وأنا لستُ من بينهم'
+   title: "!لماذا الرقة الآن..؟"
+   url: 'http://nabd-sharqi.com/crossed-words/raqa/'
+   image: raqa.jpg
+   text: 'نعم، لماذا الرقَّة توُاجه المصير الآن؟! لماذا تواجه آلة التدمير والخراب، وهي المدينة الأكثر أماناً، ودفئاً؟'
 widget3:
-   title: "المنفصل((Detachment))"
-   url: 'http://nabd-sharqi.com/art/detached/'
-   image: detachment-official-poster.jpg
-   text: ''
+   title: "خواطر سوري"
+   url: 'http://nabd-sharqi.com/east-west/hasake-syria/'
+   image: hasake.jpg
+   text: 'كلما حاولت ان اكتب لك هذه الكلمات القليلة تمنعني كثرة الدموع عن الكتابة ، فلا استطيع ان اتواصل بالكتابة فالعبرات في صدري تريد ان تنفجر كبركان يريد ان يخرج ما في جوفه من نيران'
 widget4:
-   title: "//3// القامشلي 1925 – 1958"
-   url: 'http://nabd-sharqi.com/episodes/qamishly-3/'
-   image: qamishly.jpg
-   text: 'وكما اسلفنا وعند وصول القوات الفرنسية بقيادة الملازم تيريه الذي عينته السلطة المنتدبة حاكماً عاماً على محافظتي الجزيرة والفرات بصفة مستشار'
+   title: "!!!تتويج لممثلي الحسكة بالتنس..واللعبة مهمّش"
+   url: 'http://nabd-sharqi.com/east-west/hasake-tennis/'
+   image: hasake-tennis.jpg
+   text: 'تحظى بمتابعة ولها رصيد من المحبين، ويرغب بممارستها حتّى ممن فرض عليهم القدر ليكونوا من ذوي الاحتياجات الخاصة، وتأكيداً للحب والإبداع للعبة التنس حقق ممثلا الحسكة في الاولمبياد الخاص ميداليتين كانت واحدة منها كافية لحصول ثناء من السيّدة ا'
 widget5:
-   title: "رصافة هشام
-   مدينة الشعر والجمال .. كنز أثري تحت الرمال"
-   url: 'http://nabd-sharqi.com/culture/rasafet-hisham/'
-   image: rasafet-hisham-5.jpg
-   text: 'اشتهرت البادية السورية، منذ أقدم العصور، بمدن وقصور ومنشآت، من كل نوع، رائعة التخطيط، مترفةَ البنيان، اندثر أكثرها، فلم يبقَ قائماً منها اليوم، سوى خرائب متناثرة في جَلبات الواحات، وبين الر'
+   title: "شذرات"
+   url: 'http://nabd-sharqi.com/crossed-words/shazarat/'
+   image: salim-abdal.jpg
+   text: 'الرأي الناقد يرفع صاحبه ومنقوده أما الرأي الحاقد فيحطّ صاحبه ويرفع منقوده'
 widget6:
-   title: "الشامبيونزليغ رقمياً .... مع انطلاقة الموسم الجديد  "
-   url: 'http://nabd-sharqi.com/fields/champions-league/'
-   image: champions-league.jpg
-   text: 'مع انطلاقة الموسم الجديد للشامبيونزليغ البطولة الاوروبية الاهم والاثمن ،نلقي بعضا من الضوء على الارقام و الاحصائيات في ذاكرة منذ تسميتها بالشامبيونزليغ و حتى هذا الموسم'
+   title: " حملة تبرعات للسوريين في سترينغنيس"
+   url: 'http://nabd-sharqi.com/abroad/raising-money/'
+   image: church-choir-2.jpg
+   text: 'تحت عنوان  جمع التبرعات لدعم الشعب السوري الفارين من الحرب  وبرعاية المطران يوهان دالمان'
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">

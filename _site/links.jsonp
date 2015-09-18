@@ -371,6 +371,11 @@ callback([
   } ,
 
   {
+    "text": "وفاة المشجع البرازيلي الأشهر...الذي ذرف الدموع في السباعية",
+    "href": "/fields/death-of-the-brazillian-fan/"
+  } ,
+
+  {
     "text": "مصر وسوريا وراء زر عدم الإعجاب على فيسبوك",
     "href": "/it/facebook-dislike/"
   } ,
@@ -381,8 +386,28 @@ callback([
   } ,
 
   {
+    "text": "خواطر سوري",
+    "href": "/east-west/hasake-syria/"
+  } ,
+
+  {
+    "text": "!!!تتويج لممثلي الحسكة بالتنس..واللعبة مهمّشة",
+    "href": "/east-west/hasake-tennis/"
+  } ,
+
+  {
     "text": " حملة تبرعات للسوريين في سترينغنيس",
     "href": "/abroad/raising-money/"
+  } ,
+
+  {
+    "text": "!لماذا الرقة الآن..؟",
+    "href": "/crossed-words/raqa/"
+  } ,
+
+  {
+    "text": "شذرات",
+    "href": "/crossed-words/shazarat/"
   } 
 
 ])
