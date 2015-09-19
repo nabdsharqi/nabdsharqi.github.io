@@ -9,30 +9,30 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-   title: "مصر وسوريا وراء زر عدم الإعجاب على فيسبوك"
-   url: 'http://nabd-sharqi.com/it/facebook-dislike/'
-   image: dislike.jpg
-   text: 'أعلن الرئيس التنفيذي لموقع فيسبوك مارك زوكربيرغ أن الشركة تعمل على توفير زر (( عدم الإعجاب Dislike ))  خلال حديثه في جلسة الأسئلة والأجوبة التي تُبث بشكل مُباشر'
+   title: "لكن البلد لا تحبني، يا خليل صويل"
+   url: 'http://nabd-sharqi.com/abroad/my-country-doesnt-like-me/'
+   image: syrian-flag.jpg
+   text: 'أنا أيضاً فكرتُ قبل خروجي الأخير من دمشق،لم يكن في خاطري أنني سأجرب يوماً كهذا ا'
 widget2:
-   title: "!لماذا الرقة الآن..؟"
-   url: 'http://nabd-sharqi.com/crossed-words/raqa/'
-   image: raqa.jpg
-   text: 'نعم، لماذا الرقَّة توُاجه المصير الآن؟! لماذا تواجه آلة التدمير والخراب، وهي المدينة الأكثر أماناً، ودفئاً؟'
+   title: "من ألمانيا مع التحية"
+   url: 'http://nabd-sharqi.com/abroad/from-germany/'
+   image: germany.jpg
+   text: 'تقوم وزارة الداخلية الألمانية حالياً بتحضير مشروع قانون يتضمن تشديد إجراءات اللجوء، و ذلك بهدف تقليل أعداد القادمين إلى البلاد، من أهم نقاط المشرو'
 widget3:
-   title: "خواطر سوري"
-   url: 'http://nabd-sharqi.com/east-west/hasake-syria/'
-   image: hasake.jpg
-   text: 'كلما حاولت ان اكتب لك هذه الكلمات القليلة تمنعني كثرة الدموع عن الكتابة ، فلا استطيع ان اتواصل بالكتابة فالعبرات في صدري تريد ان تنفجر كبركان يريد ان يخرج ما في جوفه من نيران'
+   title: "السويد تصدر نقوداً ورقية ومعدنية جديد"
+   url: 'http://nabd-sharqi.com/abroad/new-swedish-money/'
+   image: new-money-sweden.jpg
+   text: 'في الاول من تشرين الاول /اكتوبر 2015 سيبدأ البنك المركزي السويدي في اصدار اوراق نقدية جديدة فئة 20 و50 و1000 كرونا تحمل صوراً جديدة ،كما ستضاف ايضا فئة ورقية جديدة وهي الورقة فئة 200 كرون'
 widget4:
    title: "لقاء النجوم على متن الباخرة سندريلا"
    url: 'http://nabd-sharqi.com/ad-1/'
    image: ad-1.jpg
    text: ''
 widget5:
-   title: "شذرات"
-   url: 'http://nabd-sharqi.com/crossed-words/shazarat/'
-   image: salim-abdal.jpg
-   text: 'الرأي الناقد يرفع صاحبه ومنقوده أما الرأي الحاقد فيحطّ صاحبه ويرفع منقوده'
+   title: "وفاة المشجع البرازيلي الأشهر...الذي ذرف الدموع في السباعية"
+   url: 'http://nabd-sharqi.com/fields/death-of-the-brazillian-fan/'
+   image: brazillian-fan.jpg
+   text: 'رحل من كان يعشق منتخب بلاده البرازيل بشكل جنوني، هو صاحب الصورة الشهيرة، التي رسخت في عقول مشجعي كرة القدم حول العالم'
 widget6:
    title: " حملة تبرعات للسوريين في سترينغنيس"
    url: 'http://nabd-sharqi.com/abroad/raising-money/'

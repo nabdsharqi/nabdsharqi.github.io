@@ -408,6 +408,21 @@ callback([
   {
     "text": "شذرات",
     "href": "/crossed-words/shazarat/"
+  } ,
+
+  {
+    "text": "من ألمانيا مع التحية",
+    "href": "/abroad/from-germany/"
+  } ,
+
+  {
+    "text": "لكن البلد لا تحبني، يا خليل صويلح",
+    "href": "/abroad/my-country-doesnt-like-me/"
+  } ,
+
+  {
+    "text": "السويد تصدر نقوداً ورقية ومعدنية جديدة",
+    "href": "/abroad/new-swedish-money/"
   } 
 
 ])
