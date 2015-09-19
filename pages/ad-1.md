@@ -6,9 +6,9 @@ teaser: ""
 permalink: "/ad/"
 header: no
 image:
-   title: ad.jpg
-   homepage: ad.jpg
-   thumb: ad.jpg
+   title: cindrella.jpg
+   homepage: cindrella.jpg
+   thumb: cindrella.jpg
 ---
 
 
