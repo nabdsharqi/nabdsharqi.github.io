@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "قاء النجوم على متن الباخرة سندريل"
+title: "لقاء النجوم على متن الباخرة سندريلا"
 subheadline: ""
 teaser: ""
-permalink: "/ad-1/"
+permalink: "/ad/"
 header: no
 ---
 
 
-<img src="{{ site.url }}/images/ad-1.jpg"/>
+<img src="{{ site.url }}/images/ad.jpg"/>

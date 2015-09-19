@@ -26,7 +26,7 @@ widget3:
 widget4:
    title: "لقاء النجوم على متن الباخرة سندريلا"
    url: 'http://nabd-sharqi.com/ad-1/'
-   image: ad-1.jpg
+   image: ad.jpg
    text: ''
 widget5:
    title: "وفاة المشجع البرازيلي الأشهر...الذي ذرف الدموع في السباعية"
