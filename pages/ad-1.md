@@ -5,7 +5,11 @@ subheadline: ""
 teaser: ""
 permalink: "/ad/"
 header: no
+image:
+   title: ad.jpg
+   homepage: ad.jpg
+   thumb: ad.jpg
 ---
 
 
-<img src="{{ site.url }}/images/ad.jpg"/>
+<!-- <img src="{{ site.url }}/images/ad.jpg" alt="image"/> -->
