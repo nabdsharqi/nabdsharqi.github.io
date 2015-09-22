@@ -9,35 +9,37 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-   title: "لكن البلد لا تحبني، يا خليل صويل"
-   url: 'http://nabd-sharqi.com/abroad/my-country-doesnt-like-me/'
-   image: syrian-flag.jpg
-   text: 'أنا أيضاً فكرتُ قبل خروجي الأخير من دمشق،لم يكن في خاطري أنني سأجرب يوماً كهذا ا'
+   title: "المدرسة الكرويّة لنادي الجهاد..مواهب على الطريق"
+   url: 'http://nabd-sharqi.com/fields/jihad-football/'
+   image: jihad-1.jpg
+   text: 'عتبر الحفاظ على المدرسة الكروية لنادي الجهاد الرياضي، من أهم عناوين العمل لإدارات النادي المتعاقبة، وقد ظهر من خلالها أسماء لامعة في ميادين كرة القدم'
 widget2:
-   title: "من ألمانيا مع التحية"
-   url: 'http://nabd-sharqi.com/abroad/from-germany/'
-   image: germany.jpg
-   text: 'تقوم وزارة الداخلية الألمانية حالياً بتحضير مشروع قانون يتضمن تشديد إجراءات اللجوء، و ذلك بهدف تقليل أعداد القادمين إلى البلاد، من أهم نقاط المشرو'
+   title: "...على ذمة جريدة صنداي اكسبرس
+   بسبب سوريا ستبدأ معركة هرمجدون ونهاية العالم"
+   url: 'http://nabd-sharqi.com/newspapers/sunday-express/'
+   image: sunday-express.jpg
+   text: 'قالت صحيفة صنداي إكسبريس البريطانية إن زوال العالم بات وشيكًا وأن معركة (هرمجدون)، حرب نهاية العالم، قادمة لا محالة في الوقت الذي كشفت فيه مصادر مطلعة عن بدء روسيا في تسليح قاذفتها بالأسلحة النووية على هامش المواجهة المحتملة في سوري'
 widget3:
-   title: "السويد تصدر نقوداً ورقية ومعدنية جديد"
-   url: 'http://nabd-sharqi.com/abroad/new-swedish-money/'
-   image: new-money-sweden.jpg
-   text: 'في الاول من تشرين الاول /اكتوبر 2015 سيبدأ البنك المركزي السويدي في اصدار اوراق نقدية جديدة فئة 20 و50 و1000 كرونا تحمل صوراً جديدة ،كما ستضاف ايضا فئة ورقية جديدة وهي الورقة فئة 200 كرون'
+   title: "تل براك"
+   url: 'http://nabd-sharqi.com/culture/tall-brak/'
+   image: tall-brak.jpg
+   text: 'اسم تكرر في الفترة الأخيرة كثيراً ....استفز ذاكرتي فعدّتُ أكثر من خمسين عاماً للوراء ...الظلام يلف المدينة..الساعة تشير الى الخامسة صباحاً ...يستقيظ ..يشرب قهوته بسرعة ويلف رأسه ويخرج ليمتطي الباص كفارس يمتطي جواده'
 widget4:
    title: "لقاء النجوم على متن الباخرة سندريلا"
    url: 'http://nabd-sharqi.com/ad/'
    image: cindrella.jpg
    text: ''
 widget5:
-   title: "وفاة المشجع البرازيلي الأشهر...الذي ذرف الدموع في السباعية"
-   url: 'http://nabd-sharqi.com/fields/death-of-the-brazillian-fan/'
-   image: brazillian-fan.jpg
-   text: 'رحل من كان يعشق منتخب بلاده البرازيل بشكل جنوني، هو صاحب الصورة الشهيرة، التي رسخت في عقول مشجعي كرة القدم حول العالم'
+   title: "اركيلة...و ليست هوكا"
+   url: 'http://nabd-sharqi.com/crossed-words/argeele/'
+   image: argeele.jpg
+   text: 'للحياة في امريكا خفايا لا يراها الانسان في الاعلام،او التلفزيون،او الافلام الهوليودية،يعني انتم خارج امريكا ربما تكونوا معجبين متلي باخلاق الفنانة الامريكية كيم كارداشيان....لكن هناك قسم كبير من الامريكان في الداخل،لا وقت لديه للس'
 widget6:
-   title: " حملة تبرعات للسوريين في سترينغنيس"
-   url: 'http://nabd-sharqi.com/abroad/raising-money/'
-   image: church-choir-2.jpg
-   text: 'تحت عنوان  جمع التبرعات لدعم الشعب السوري الفارين من الحرب  وبرعاية المطران يوهان دالمان'
+   title: "...هذيان ما قبل الحمّى"
+   url: 'http://nabd-sharqi.com/culture/fever-hallucination/'
+   image: melkon-3.jpg
+   text: 'و ها انا أتأرجح ما بين هنا و هناك ... ما بين حنين و نسيان ... ما بين قدر و واقع .... لست بحاجة لإعادة ترتيب فوضى السنوات و همجية الأفكار و شتات العواط'
+
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
