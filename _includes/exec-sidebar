@@ -1,11 +1,14 @@
 <aside>
 	<div class="panel radius">
-		<h2 class="text-right">جواز سفر سوري</h2>
+		<h2 class="text-right">...صور</h2>
 			<img src="{{ site.url }}/images/melkon-melkon.jpg" class="text-right" alt="Melkon Melkon" style="width: 100px; float: right; margin-left: 15px;"/>
 		<p class="text-right">
-			قد تكون المشكلة قديمة و سابقة لايامنا و سنواتنا الأخيرة هذه و لكنها تعمقت بشكل مؤذٍ في السنوات الأخيرة ،فبمجرد ان تبرز جواز سفرك السوري حتى تصبح ملامح رجال الامن و شركات الطيران قاسية و ممتعضة موحية و كانها قد امسكت بعقرب يلدغ سماً زعافاً لمن يلمسه
+			وهكذا أصبح السوري ألبوم صور متناقضة جانحة نحو أقصى الفجيعة ،وغارقة في عمق الفرح ،ومتأرجحة بين النجاة من المجزرة ومواجهة مجزرة جديدة .مختلفة
+
+
+			هكذا تضج صفحات التواصل الاجتماعي بصور السوريين وهم يتنقلون من مكان لأخر ومن حال لحال ،ومن وطن لغربة،ليضعوا بصمتهم صوراً تحاكي ولا .تحكي واقعهم المأزوم
 		</p>
-		<a href="{{ site.url }}/info/">المزيد</a>
+		<a href="{{ site.url }}/words/exec-words/exec-word-4.html">المزيد</a>
 	</div>
 
  <!-- <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt=""> -->
