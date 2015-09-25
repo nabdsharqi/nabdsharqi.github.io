@@ -180,6 +180,12 @@ header:
 *
 {% endcomment %}
 
+<ul>
+  {% for page in site.pages %}
+      {{page.layout}}
+  {% endfor %}
+</ul>
+
 <div class="row">
     {{ content }}
 </div><!-- /.row -->

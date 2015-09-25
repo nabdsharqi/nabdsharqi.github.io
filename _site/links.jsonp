@@ -448,6 +448,16 @@ callback([
   {
     "text": "تل براك ",
     "href": "/culture/tall-brak/"
+  } ,
+
+  {
+    "text": "  (( قيد النشر ))American history x",
+    "href": "/art/american-history/"
+  } ,
+
+  {
+    "text": "عيديّة القامشلي...لهيب الأسعار",
+    "href": "/east-west/eid-kamishly/"
   } 
 
 ])
