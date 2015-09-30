@@ -71,8 +71,8 @@ callback([
   } ,
 
   {
-    "text": "Rhino Season - موسم وحيد القرن",
-    "href": "/art/rhino-season/"
+    "text": "Rhino Season",
+    "href": "/rhino-season/"
   } ,
 
   {
@@ -473,6 +473,26 @@ callback([
   {
     "text": "سيد قطب :لماذا صرتُ ماسونياً ؟",
     "href": "/east-west/qutub/"
+  } ,
+
+  {
+    "text": "ألمانيا تترجم 20 مادة من دستورها للغة العربية لتسهيل اندماج اللاجئين",
+    "href": "/abroad/germany-eases-integration/"
+  } ,
+
+  {
+    "text": "نادي الجهاد تحت ضغط الجيران ",
+    "href": "/fields/jihad-peer-pressure/"
+  } ,
+
+  {
+    "text": "المولدات الكهربائيّة: تلوّث.. ضجيج..مزاجيّة ",
+    "href": "/east-west/power-gens/"
+  } ,
+
+  {
+    "text": "حاملو اللقب باوروبا في ورطة حقيقية  ",
+    "href": "/fields/pros-problems/"
   } 
 
 ])
