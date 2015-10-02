@@ -493,6 +493,41 @@ callback([
   {
     "text": "حاملو اللقب باوروبا في ورطة حقيقية  ",
     "href": "/fields/pros-problems/"
+  } ,
+
+  {
+    "text": "..حين تموت المدن",
+    "href": "/culture/cities-death/"
+  } ,
+
+  {
+    "text": "!الغيتو العائلي ؟",
+    "href": "/abroad/family-ghetto/"
+  } ,
+
+  {
+    "text": "قريباً.. صورة بروفايلك على فيسبوك فيديو",
+    "href": "/it/fb-video/"
+  } ,
+
+  {
+    "text": "في ألمانيا:سوريون يرفضون مصافحة إمرأة ألمانية و الحديث معها",
+    "href": "/abroad/german-handshake/"
+  } ,
+
+  {
+    "text": " ٩٥مرشحاً للكرة الذهبية",
+    "href": "/fields/golden-globe/"
+  } ,
+
+  {
+    "text": "!ابن تيمية لا يكفّ عن قيادة المسلمين",
+    "href": "/newspapers/ibn-taymya/"
+  } ,
+
+  {
+    "text": "تويتر  سيُلغي حدّ الـ140 حرفاً",
+    "href": "/it/twitter-char-limit/"
   } 
 
 ])
