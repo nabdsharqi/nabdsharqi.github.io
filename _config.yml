@@ -535,10 +535,13 @@ prose:
       - name: "layout"
         field:
          element: "text"
+         label: "layout"
+         help: "don't change this!"
          value: "page"
       - name: "subheadline"
         field:
          element: "text"
+         label: "subheadline/subtitle"
          value: "IT"
       - name: "teaser"
         field:
@@ -548,20 +551,12 @@ prose:
       - name: "categories"
         field:
          element: "text"
+         label: "category"
          value: "it"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: "false"
-      - name: "show_meta"
-        field:
-         element: "text"
-         label: "meta"
-         value: "true"
       - name: "header"
         field:
          element: "hidden"
-         value: no
+         value: "no"
       - name: "author"
         field:
          element: "select"
