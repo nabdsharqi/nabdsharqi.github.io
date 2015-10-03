@@ -556,14 +556,11 @@ prose:
       - name: "show_meta"
         field:
          element: "hidden"
-         label: "show info about author/article?"
          value: "true"
       - name: "header"
         field:
-         element: "button"
-         label: "disable the header image by selecting no"
-         on: yes
-         off: no
+         element: "hidden"
+         value: "no"
       - name: "author"
         field:
          element: "select"
