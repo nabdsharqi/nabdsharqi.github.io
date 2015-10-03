@@ -538,6 +538,10 @@ prose:
          label: "layout"
          help: "don't change this!"
          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "subheadline"
         field:
          element: "text"
