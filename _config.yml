@@ -296,11 +296,13 @@ prose:
     _posts/abroad:
       - name: "layout"
         field:
-          element: "hidden"
+          element: "text"
+          help: "don't change this! لا تغير هذا القسم"
           value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "مهاجرون"
       - name: "teaser"
         field:
@@ -309,16 +311,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "abroad"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -330,11 +325,13 @@ prose:
     _posts/art:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "فنون"
       - name: "teaser"
         field:
@@ -343,16 +340,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "art"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -364,11 +354,13 @@ prose:
     _posts/book-in-episodes:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "كتاب في حلقات"
       - name: "teaser"
         field:
@@ -377,16 +369,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "episodes"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -398,11 +383,13 @@ prose:
     _posts/crossed-words:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "أفكار متقاطعة"
       - name: "teaser"
         field:
@@ -411,16 +398,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "crossed-words"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -432,11 +412,13 @@ prose:
     _posts/culture:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "فضاءات ثقافية"
       - name: "teaser"
         field:
@@ -445,16 +427,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "culture"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -466,11 +441,13 @@ prose:
     _posts/east-west:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "شرق - غرب"
       - name: "teaser"
         field:
@@ -479,16 +456,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "east-west"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -500,11 +470,13 @@ prose:
     _posts/fields:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "ملاعب"
       - name: "teaser"
         field:
@@ -513,16 +485,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "fields"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
@@ -536,12 +501,8 @@ prose:
         field:
          element: "text"
          label: "layout"
-         help: "don't change this!"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
       - name: "subheadline"
         field:
          element: "text"
@@ -555,7 +516,7 @@ prose:
       - name: "categories"
         field:
          element: "text"
-         label: "category"
+         label: "category/ قسم المقال"
          value: "it"
       - name: "header"
         field:
@@ -572,11 +533,13 @@ prose:
     _posts/newspapers:
       - name: "layout"
         field:
-         element: "hidden"
+         element: "text"
+         help: "don't change this! لا تغير هذا القسم"
          value: "page"
       - name: "subheadline"
         field:
-         element: "hidden"
+         element: "text"
+         label: "subheadline/subtitle"
          value: "مدونات و جرائد"
       - name: "teaser"
         field:
@@ -585,16 +548,9 @@ prose:
          help: "مقتطف من المقال ليعرض في الصفحات الرئيسية"
       - name: "categories"
         field:
-         element: "hidden"
+         element: "text"
+         label: "category/ قسم المقال"
          value: "newspapers"
-      - name: "comments"
-        field:
-         element: "hidden"
-         value: false
-      - name: "show_meta"
-        field:
-         element: "hidden"
-         value: true
       - name: "author"
         field:
          element: "select"
