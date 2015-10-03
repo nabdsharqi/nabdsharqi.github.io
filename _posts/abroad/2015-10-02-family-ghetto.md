@@ -12,7 +12,7 @@ image:
    title: loneliness.jpg
    thumb: loneliness.jpg
    homepage: loneliness.jpg
-author:
+author: melkon
 ---
 
 
