@@ -557,8 +557,8 @@ prose:
         field:
          element: "button"
          label: "show info about author/article?"
-         on: true
-         off: false
+         on: "true"
+         off: "false"
       - name: "header"
         field:
          element: "button"
