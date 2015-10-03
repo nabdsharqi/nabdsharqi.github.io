@@ -3,8 +3,7 @@ layout: page
 subheadline: "مهاجرون"
 title: "!الغيتو العائلي ؟"
 teaser: "ما الذي يمكن أن يكتسبه المهاجر في بلاد المهجر ؟؟"
-categories:
-    - abroad
+categories: abroad
 comments: false
 show_meta: true
 header: no
