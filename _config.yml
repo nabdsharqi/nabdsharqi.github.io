@@ -552,13 +552,12 @@ prose:
       - name: "comments"
         field:
          element: "hidden"
-         value: false
+         value: "false"
       - name: "show_meta"
         field:
-         element: "button"
+         element: "hidden"
          label: "show info about author/article?"
-         on: "true"
-         off: "false"
+         value: "true"
       - name: "header"
         field:
          element: "button"
