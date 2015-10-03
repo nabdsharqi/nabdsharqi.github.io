@@ -562,7 +562,7 @@ prose:
       - name: "header"
         field:
          element: "button"
-         label:"disable the header image by selecting no"
+         label: "disable the header image by selecting no"
          on: yes
          off: no
       - name: "author"
