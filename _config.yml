@@ -555,8 +555,9 @@ prose:
          value: "false"
       - name: "show_meta"
         field:
-         element: "hidden"
-         value: true
+         element: "text"
+         label: "meta"
+         value: "true"
       - name: "header"
         field:
          element: "hidden"
