@@ -556,11 +556,11 @@ prose:
       - name: "show_meta"
         field:
          element: "hidden"
-         value: "true"
+         value: true
       - name: "header"
         field:
          element: "hidden"
-         value: "no"
+         value: no
       - name: "author"
         field:
          element: "select"
