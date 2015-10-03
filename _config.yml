@@ -302,6 +302,10 @@ prose:
         field:
          element: "hidden"
          value: "مهاجرون"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -336,6 +340,10 @@ prose:
         field:
          element: "hidden"
          value: "فنون"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -370,6 +378,10 @@ prose:
         field:
          element: "hidden"
          value: "كتاب في حلقات"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -404,6 +416,10 @@ prose:
         field:
          element: "hidden"
          value: "أفكار متقاطعة"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -438,6 +454,10 @@ prose:
         field:
          element: "hidden"
          value: "فضاءات ثقافية"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -472,6 +492,10 @@ prose:
         field:
          element: "hidden"
          value: "شرق - غرب"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -506,6 +530,10 @@ prose:
         field:
          element: "hidden"
          value: "ملاعب"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -540,6 +568,10 @@ prose:
         field:
          element: "hidden"
          value: "IT"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
@@ -574,6 +606,10 @@ prose:
         field:
          element: "hidden"
          value: "مدونات و جرائد"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
       - name: "teaser"
         field:
          element: "textarea"
