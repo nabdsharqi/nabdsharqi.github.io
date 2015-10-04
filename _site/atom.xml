@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://nabd-sharqi.com/</id>
 	<title>نبض شرقي</title>
-	<updated>2015-10-02T22:34:06+02:00</updated>
+	<updated>2015-10-04T19:27:25+02:00</updated>
 
 	<subtitle>موقع الكتروني يهتم بأخبار المهاجرين و يسعى لنشر الثقافة و المعرفة و التنوير و الإنسانية </subtitle>
 
@@ -178,6 +178,17 @@
 			<link href="http://nabd-sharqi.com/abroad/family-ghetto/" rel="alternate" type="text/html" title="!الغيتو العائلي ؟" />
 			<updated>2015-10-02T00:00:00+02:00</updated>
 
+			
+				
+				<author>
+					
+						<name>ملكون ملكون</name>
+					
+					
+					
+						<uri>http://facebook.com/mmelkon</uri>
+					
+				</author>
 			
 			<summary>ما الذي يمكن أن يكتسبه المهاجر في بلاد المهجر ؟؟</summary>
 			<content type="html" xml:base="http://nabd-sharqi.com/abroad/family-ghetto/">&lt;p&gt;….ما الذي يمكن أن يكتسبه المهاجر في بلاد المهجر ؟؟&lt;/p&gt;
