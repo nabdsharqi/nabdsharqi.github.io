@@ -38,7 +38,7 @@
 
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 
-	{% if page.meta_description %}<meta property="og:description" content="{{ page.meta_description | strip_html | escape }}" />
+	{% if page.teaser %}<meta property="og:description" content="{{ page.teaser | strip_html | escape }}" />
 
 	{% elsif page.description %}<meta property="og:description" content="{{ page.description | strip_html | escape }}"/>{% elsif site.description %}<meta property="og:description" content="{{ site.description | strip_html | escape }}" />{% endif %}
 
