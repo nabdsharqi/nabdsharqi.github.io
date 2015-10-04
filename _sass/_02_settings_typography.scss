@@ -15,6 +15,15 @@ Modular Scale › http://modularscale.com/scale/?px1=16&px2=36&ra1=1.25&ra2=0
 /* Fonts
 ------------------------------------------------------------------- */
 
+// @import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+@font-face {
+    font-family: 'Droid Arabic Kufi';
+    src: url('/assets/fonts/DroidKufi-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 $base-font-size: 16px;
 $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
@@ -22,14 +31,17 @@ $base-line-height: 1.5 !default;
 
 
 $font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Volkhov", Georgia, Times, serif;
+// $font-family-serif: "Volkhov", Georgia, Times, serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
+
+$font-family-top: "Droid Arabic Kufi";
+// $font-family-paragraph:
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
-$header-font-family: $font-family-serif;
+$header-font-family: $font-family-top;
 
 
 

@@ -8,7 +8,8 @@
 
 			هكذا تضج صفحات التواصل الاجتماعي بصور السوريين وهم يتنقلون من مكان لأخر ومن حال لحال ،ومن وطن لغربة،ليضعوا بصمتهم صوراً تحاكي ولا .تحكي واقعهم المأزوم
 		</p>
-		<a href="{{ site.url }}/words/exec-words/exec-word-4.html">المزيد</a>
+		<a class="button tiny radius" href="{{ site.url }}/words/exec-words/exec-word-4.html">المزيد</a>
+		<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
 	</div>
 
  <!-- <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt=""> -->
