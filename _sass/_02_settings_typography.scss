@@ -31,6 +31,13 @@ Modular Scale › http://modularscale.com/scale/?px1=16&px2=36&ra1=1.25&ra2=0
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Another Flat Arabic';
+    src: url('/assets/fonts/AraHamah1964R-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 $base-font-size: 16px;
 $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
@@ -42,7 +49,7 @@ $font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
 
 $font-family-top: "Droid Arabic Kufi";
-$font-family-paragraph: "Flat Arabic";
+$font-family-paragraph: "Another Flat Arabic";
 
 $body-font-family: $font-family-paragraph;
 $body-font-weight: normal;
