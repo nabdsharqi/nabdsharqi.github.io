@@ -12,31 +12,37 @@ widget1:
    title: "في ألمانيا:سوريون يرفضون مصافحة إمرأة ألمانية و الحديث معها"
    url: 'http://nabd-sharqi.com/abroad/german-handshake/'
    image: german-woman.jpg
+   category: ''
    text: 'رفضت عائلة سورية الحديث مع سيدة لديها شركة لتأجير البيوت لكونها إمرأة، شقراء و تنظر في عيون الرجال، و فضلت العائلة عدم الحصول على البيت على الحصول على استشارة بشأنه من إمرأة'
 widget2:
    title: "ابن تيمية لا يكف عن قيادة المسلمين"
    url: 'http://nabd-sharqi.com/newspapers/ibn-taymya/'
    image: tanweer.jpg
+   category: ''
    text: 'يشير المفكر الراحل محمد عابد الجابري إلى أن الدين الإسلامي دين فقه بشكل كبير، ويرى أن المدارس الفقهية، سواء منها ما كان منتسباً الى المذهب السني أم الشيعي، أنتجت تراثاً من الفقه غطّى على كل ميادين الحياة'
 widget3:
    title: "..حين تموت المدن"
    url: 'http://nabd-sharqi.com/culture/cities-death/'
    image: kamishly-poster.jpg
+   category: ''
    text: 'الكل يتغزل عبر هذا العالم الافتراضي بأرملة المدن ....قامشلو ...القامشلي ....قامشلية ...الأجمل ...الأروع ...الأكثر خيراً ....بالضبط مثل انسان نجس يموت فيتحول الى ملاك تلوكه السنة أهل البلد'
 widget4:
    title: "لقاء النجوم على متن الباخرة سندريلا"
    url: 'http://nabd-sharqi.com/ad/'
    image: cindrella.jpg
+   category: ''
    text: ''
 widget5:
    title: "!الغيتو العائلي ؟"
    url: 'http://nabd-sharqi.com/abroad/family-ghetto/'
    image: loneliness.jpg
+   category: ''
    text: 'ما الذي يمكن أن يكتسبه المهاجر في بلاد المهجر ؟؟'
 widget6:
    title: " ٩٥مرشحاً للكرة الذهبية"
    url: 'http://nabd-sharqi.com/fields/golden-globe/'
    image: golden-globe.jpg
+   category: ''
    text: 'كشف الاتحاد الدولي لكرة القدم عن لائحة تضم خمس و تسعين مرشحاً لجائزة الكرة الذهبية التي ينالها أفضل لاعب في العالم، وقد كان لبرشلونة وريال مدريد الإسبانيين حصة الأسد في تلك اللائحة'
 
 ---

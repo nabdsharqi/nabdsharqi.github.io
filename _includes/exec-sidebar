@@ -1,15 +1,16 @@
 <aside>
 	<div class="panel radius">
-		<h2 class="text-right">...صور</h2>
-			<img src="{{ site.url }}/images/melkon-melkon.jpg" class="text-right" alt="Melkon Melkon" style="width: 100px; float: right; margin-left: 15px;"/>
+		<h2 class="text-right">كلمة رئيس التحرير</h2>
+		<img src="{{ site.url }}/images/melkon-melkon.jpg" class="text-right" alt="Melkon Melkon"/>
+		<h3 class="text-right">...صور</h3>
 		<p class="text-right">
 			وهكذا أصبح السوري ألبوم صور متناقضة جانحة نحو أقصى الفجيعة ،وغارقة في عمق الفرح ،ومتأرجحة بين النجاة من المجزرة ومواجهة مجزرة جديدة .مختلفة
 
-
-			هكذا تضج صفحات التواصل الاجتماعي بصور السوريين وهم يتنقلون من مكان لأخر ومن حال لحال ،ومن وطن لغربة،ليضعوا بصمتهم صوراً تحاكي ولا .تحكي واقعهم المأزوم
 		</p>
-		<a class="button tiny radius" href="{{ site.url }}/words/exec-words/exec-word-4.html">المزيد</a>
-		<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
+		<div>
+			<a class="button tiny radius" href="{{ site.url }}/words/exec-words/exec-word-4.html">المزيد</a>
+			<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
+		</div>
 	</div>
 
  <!-- <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt=""> -->
