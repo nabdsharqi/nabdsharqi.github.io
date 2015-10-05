@@ -2,13 +2,13 @@
 	<div class="panel radius">
 		<h2 class="text-right">كلمة رئيس التحرير</h2>
 		<img src="{{ site.url }}/images/melkon-melkon.jpg" class="text-right" alt="Melkon Melkon"/>
-		<h3 class="text-right">...صور</h3>
+		<h3 class="text-right">أسرى التابوات</h3>
 		<p class="text-right">
-			وهكذا أصبح السوري ألبوم صور متناقضة جانحة نحو أقصى الفجيعة ،وغارقة في عمق الفرح ،ومتأرجحة بين النجاة من المجزرة ومواجهة مجزرة جديدة .مختلفة
+			أمضينا خمسة عقود من عمرنا أسرى للتابوات الثلاثة // الدين والسياسة والجنس // ،وبات هذا الثالوث من المحرمات يفقأ عيون حريتنا وفكرنا وانسانيتنا
 
 		</p>
 		<div>
-			<a class="button tiny radius" href="{{ site.url }}/words/exec-words/exec-word-4.html">المزيد</a>
+			<a class="button tiny radius" href="{{ site.url }}/words/exec-words/exec-word-5.html">المزيد</a>
 			<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
 		</div>
 	</div>

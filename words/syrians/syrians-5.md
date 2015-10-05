@@ -5,7 +5,7 @@ subheadline: "نبض شرقي"
 teaser: "قامة فكرية ووطنية تركت بصمتها في تاريخ سوريا بأثر لا يُنسى، ليحمل ألقاباً عدة مها الراعي الأول لمسيرة التعليم العالي في الجمهورية العربية السورية الأولى"
 type: "syrians"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_unsplash_8.jpg"
 ---
 
 ###د. رضا سعيد
