@@ -15,6 +15,7 @@
 	<link href="//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" href="http://nabd-sharqi.com/assets/css/styles_feeling_responsive.css" />
+	<link rel="stylesheet" type="text/css" href="http://nabd-sharqi.com/assets/css/overrides.css" />
 
 	<script src="http://nabd-sharqi.com/assets/js/modernizr.min.js"></script>
 

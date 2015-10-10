@@ -1,11 +1,13 @@
 <div class="medium-3 columns frontpage-widget">
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
-	<a href="{{ widget_url }}">
-		{% if include.widget.image %}
-				<img src="{{ site.url }}{{ site.urlimg }}{{ include.widget.image }}" width="100%" alt="" />
-		{% endif %}
-		{% if include.widget.video %}{{ include.widget.video }}{% endif %}
-	</a>
+	<div class="img-faux-crop">
+		<a href="{{ widget_url }}">
+			{% if include.widget.image %}
+					<img src="{{ site.url }}{{ site.urlimg }}{{ include.widget.image }}" width="100%" alt="" />
+			{% endif %}
+			{% if include.widget.video %}{{ include.widget.video }}{% endif %}
+		</a>
+	</div>
 	<h2 class="font-size-h3 t10 text-right">{{ include.widget.title }}</h2>
 	<p class="text-right">{{ include.widget.text }}</p>
 	<p ><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
