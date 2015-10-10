@@ -7,7 +7,7 @@
 	<link href="//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles_feeling_responsive.css" />
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/overrides.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/overrides.css" />
 
 	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 
