@@ -6,7 +6,182 @@
 
 .frontpage-widget {
   .img-faux-crop {
-    height: 200px;
+    height: 160px;
     overflow: hidden;
   }
+  .text-block {
+    color: #fff;
+    background-color: #263238;
+    padding: 10px;
+
+    h2 {
+        color: #fff;
+    }
+
+    .buttons-block {
+      margin-bottom: 0px;
+    }
+  }
+}
+
+.exec-aside {
+  background-color: #263238;
+
+  .img-faux-crop {
+    height: 160px;
+    overflow: hidden;
+  }
+
+  .text-block {
+    padding: 10px;
+
+    h3 {
+      margin-top: 10px;
+      color: #fff;
+    }
+    color: #fff;
+  }
+
+  .buttons-block {
+    padding: 10px;
+  }
+
+}
+
+
+
+.column, .columns {
+  @media only screen and (max-width: 700px){
+    margin-bottom: 10px;
+  }
+}
+
+.no-margin-bottom {
+  margin-bottom: 0px;
+}
+
+.frontpage-widget {
+  .category-anchor {
+    transition: all 0.2s ease;
+    padding: 0 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 15px;
+
+    a {
+      color: white;
+    }
+
+    &:hover {
+      background: white;
+
+      a {
+        color: #E53935;
+      }
+    }
+  }
+}
+
+.exec-aside {
+  .category-anchor {
+    transition: all 0.2s ease;
+    padding: 0 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 15px;
+
+    a {
+      color: white;
+    }
+
+    &:hover {
+      background: white;
+
+      a {
+        color: #E53935;
+      }
+    }
+  }
+}
+
+// MAIN CATS COLORS
+
+$cat-abroad: #E53935;
+$cat-art: #D81B60;
+$cat-books: #8E24AA;
+$cat-crossed: #F4511E;
+$cat-culture: #3949AB;
+$cat-ew: #1E88E5;
+$cat-fields: #00897B;
+$cat-it: #FB8C00;
+$cat-blogs: #6D4C41;
+$cat-exec: #5E35B1;
+$cat-syrians: #546E7A;
+
+
+
+.abroad {
+  background: $cat-abroad;
+
+}
+
+.art {
+  background: $cat-art;
+
+}
+
+.books {
+  background: $cat-books;
+
+}
+
+.crossed {
+  background: $cat-crossed;
+
+}
+
+.culture {
+  background: $cat-culture;
+
+}
+
+.ew {
+  background: $cat-ew;
+
+}
+
+.fields {
+  background: $cat-fields;
+
+}
+
+.it {
+  background: $cat-it;
+
+}
+
+.blogs {
+  background: $cat-blogs;
+
+}
+
+.exec {
+  background: $cat-exec;
+
+}
+
+.exec-text {
+  color: $cat-exec;
+
+}
+
+.syrians {
+  background: $cat-syrians;
+
+}
+
+.syrians-text {
+  color: $cat-syrians;
 }

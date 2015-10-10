@@ -1,5 +1,12 @@
 <div class="medium-3 columns frontpage-widget">
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+	<span class="category-anchor {{ include.widget.cat-en }}">
+		<a href="#">
+			{% if include.widget.category %}
+				{{ include.widget.category }}
+			{% endif %}
+		</a>
+	</span>
 	<div class="img-faux-crop">
 		<a href="{{ widget_url }}">
 			{% if include.widget.image %}
@@ -8,7 +15,9 @@
 			{% if include.widget.video %}{{ include.widget.video }}{% endif %}
 		</a>
 	</div>
-	<h2 class="font-size-h3 t10 text-right">{{ include.widget.title }}</h2>
-	<p class="text-right">{{ include.widget.text }}</p>
-	<p ><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
+	<div class="text-block">
+		<h2 class="font-size-h3 t10 text-right">{{ include.widget.title }}</h2>
+		<p class="text-right" id="teaser-text-block">{{ include.widget.text }}</p>
+		<p class="buttons-block"><a class="button tiny radius no-margin-bottom" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
+	</div>
 </div>
