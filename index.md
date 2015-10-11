@@ -68,7 +68,7 @@ widget7:
 widget8:
    title: "!!العروبة المزيفة"
    url: 'http://nabd-sharqi.com/crossed-words/العروبة-المزيفة/'
-   image: abdalkareem-alblekh.jpg
+   image: blekh-2.jpg
    category: 'أفكار متقاطعة'  
    cat-en: 'crossed'
    text: 'نقف باحترام شديد أمام التسهيلات التي قدمتها مجموعة دول اليورو حيال المواطن السوري الذي فرّ هرباً من الموت الزؤام، والخراب والدمار الذي لحق به، واللحاق بركب الدول الراعية للإنسان'
