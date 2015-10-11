@@ -8,7 +8,7 @@
 <style>
 .share-page {
    text-align: center;
-   background: #4636FC;
+   background: #009688;
    color: white;
    padding: 8px 15px;
    border-radius: 5px;

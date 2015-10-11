@@ -55,6 +55,19 @@
     margin-bottom: 10px;
   }
 }
+// main header on mobile
+
+h1.site-title {
+  @media only screen and (max-width: 700px){
+    font-size: 1.8em;
+  }
+}
+
+h2.site-subtitle {
+  @media only screen and (max-width: 700px){
+    font-size: 1.2em;
+  }
+}
 
 .no-margin-bottom {
   margin-bottom: 0px;
@@ -184,4 +197,63 @@ $cat-syrians: #546E7A;
 
 .syrians-text {
   color: $cat-syrians;
+}
+
+
+// MAIN MENU
+.top-bar {
+
+  .top-bar-section {
+    ul {
+      li {
+        a {
+          background-size: 100% 200% !important;
+          background-image: linear-gradient(to bottom, white 50%, #263238 50%) !important;
+          transition: all 0.3s !important;
+
+          &.abroad {
+            background-image: linear-gradient(to bottom, white 50%, $cat-abroad 50%) !important;
+
+          }
+          &.art {
+            background-image: linear-gradient(to bottom, white 50%, $cat-art 50%) !important;
+
+          }
+          &.books {
+            background-image: linear-gradient(to bottom, white 50%, $cat-books 50%) !important;
+
+          }
+          &.crossed {
+            background-image: linear-gradient(to bottom, white 50%, $cat-crossed 50%) !important;
+
+          }
+          &.culture {
+            background-image: linear-gradient(to bottom, white 50%, $cat-culture 50%) !important;
+
+          }
+          &.ew {
+            background-image: linear-gradient(to bottom, white 50%, $cat-ew 50%) !important;
+
+          }
+          &.fields {
+            background-image: linear-gradient(to bottom, white 50%, $cat-fields 50%) !important;
+
+          }
+          &.it {
+            background-image: linear-gradient(to bottom, white 50%, $cat-it 50%) !important;
+
+          }
+          &.blogs {
+            background-image: linear-gradient(to bottom, white 50%, $cat-blogs 50%) !important;
+
+          }
+
+          &:hover {
+            background-position: 0 -100% !important;
+            color: white !important;
+          }
+        }
+      }
+    }
+  }
 }

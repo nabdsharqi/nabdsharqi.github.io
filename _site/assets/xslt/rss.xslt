@@ -160,11 +160,11 @@
       <h1 class="show-for-small-only"><a href="http://nabd-sharqi.com"  > نبض شرقي</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>القائمة</span></a></li>
     </ul>
-    <section class="top-bar-section">
+    <section class="top-bar-section" style="padding-right: 10px;">
 
-      <ul class="right">
+      <ul class="right text-right">
         
 
               
@@ -176,23 +176,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/newspapers/index.html">مدونات - جرائد</a></li>
-
-            
-            
-          
-        
-
-              
-                
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/IT/index.html">IT</a></li>
+              <li ><a class="blogs" href="http://nabd-sharqi.com/newspapers/index.html">مدونات - جرائد</a></li>
 
             
             
@@ -208,7 +192,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/book-in-episodes/index.html">كتاب في حلقات</a></li>
+              <li ><a class="it" href="http://nabd-sharqi.com/IT/index.html">IT</a></li>
 
             
             
@@ -224,7 +208,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/abroad/index.html">مهاجرون</a></li>
+              <li ><a class="books" href="http://nabd-sharqi.com/book-in-episodes/index.html">كتاب في حلقات</a></li>
 
             
             
@@ -240,7 +224,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/fields/index.html">ملاعب</a></li>
+              <li ><a class="abroad" href="http://nabd-sharqi.com/abroad/index.html">مهاجرون</a></li>
 
             
             
@@ -256,7 +240,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/art/index.html">فنون</a></li>
+              <li ><a class="fields" href="http://nabd-sharqi.com/fields/index.html">ملاعب</a></li>
 
             
             
@@ -272,7 +256,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/crossed-words/index.html">أفكار متقاطعة</a></li>
+              <li ><a class="art" href="http://nabd-sharqi.com/art/index.html">فنون</a></li>
 
             
             
@@ -288,7 +272,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/culture/index.html">فضاءات ثقافية</a></li>
+              <li ><a class="crossed" href="http://nabd-sharqi.com/crossed-words/index.html">أفكار متقاطعة</a></li>
 
             
             
@@ -304,7 +288,7 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/east-west/index.html">شرق - غرب</a></li>
+              <li ><a class="culture" href="http://nabd-sharqi.com/culture/index.html">فضاءات ثقافية</a></li>
 
             
             
@@ -320,7 +304,23 @@
             
             
               <li class="divider"></li>
-              <li ><a href="http://nabd-sharqi.com/">الصفحة الرئيسية</a></li>
+              <li ><a class="ew" href="http://nabd-sharqi.com/east-west/index.html">شرق - غرب</a></li>
+
+            
+            
+          
+        
+
+              
+                
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li ><a class="" href="http://nabd-sharqi.com/">الصفحة الرئيسية</a></li>
 
             
             

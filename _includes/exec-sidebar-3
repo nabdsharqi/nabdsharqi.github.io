@@ -1,0 +1,28 @@
+<aside>
+	<div class="exec-aside">
+		<span class="category-anchor syrians">
+			<a href="#">
+				قامات سورية
+			</a>
+		</span>
+		<div class="img-faux-crop">
+			<img src="{{ site.url }}/images/rida-saeed.jpg" alt="rida-saeed" style=""/>
+		</div>
+		<!-- <h2 class="text-right">قامات سورية</h2> -->
+		<div class="text-block">
+
+			<h3 class="text-right">د. رضا سعيد</h3>
+			<p class="text-right" id="teaser-text-block">
+				قامة فكرية ووطنية تركت بصمتها في تاريخ سوريا بأثر لا يُنسى، ليحمل ألقاباً عدة مها الراعي الأول لمسيرة التعليم العالي في الجمهورية العربية السورية الأولى
+
+			</p>
+		</div>
+
+		<div class="buttons-block">
+			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/syrians/syrians-5.html">المزيد</a>
+			<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
+		</div>
+	</div>
+
+
+</aside>

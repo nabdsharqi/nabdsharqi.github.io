@@ -1,39 +1,47 @@
 - title:  مدونات - جرائد
   url: "/newspapers/index.html"
   side: right
+  cat: blogs
 
 - title:  IT
   url: "/IT/index.html"
   side: right
+  cat: it
 
 - title:  كتاب في حلقات
   url: "/book-in-episodes/index.html"
   side: right
+  cat: books
 
 - title:  مهاجرون
   url: "/abroad/index.html"
   side: right
+  cat: abroad
 
 - title:  ملاعب
   url: "/fields/index.html"
   side: right
+  cat: fields
 
 - title:  فنون
   url: "/art/index.html"
   side: right
+  cat: art
 
 - title: أفكار متقاطعة
   url: "/crossed-words/index.html"
   side: right
+  cat: crossed
 
 - title: فضاءات ثقافية
   url: "/culture/index.html"
   side: right
+  cat: culture
 
 - title: "شرق - غرب"
   url: "/east-west/index.html"
   side: right
-
+  cat: ew
 
 - title: الصفحة الرئيسية
   url: "/"
