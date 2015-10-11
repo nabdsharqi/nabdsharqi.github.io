@@ -2,25 +2,25 @@
 	<div class="exec-aside">
 		<span class="category-anchor syrians">
 			<a href="#">
-				قامات سورية
+				كتاب في حلقات
 			</a>
 		</span>
 		<div class="img-faux-crop">
-			<img src="{{ site.url }}/images/rida-saeed.jpg" alt="rida-saeed" style=""/>
+			<img src="{{ site.url }}/images/qamishly.jpg" alt="qamishly" style=""/>
 		</div>
 		<!-- <h2 class="text-right">قامات سورية</h2> -->
 		<div class="text-block">
 
-			<h3 class="text-right">د. رضا سعيد</h3>
+			<h3 class="text-right">//3// القامشلي 1925 – 1958</h3>
 			<p class="text-right" id="teaser-text-block">
-				قامة فكرية ووطنية تركت بصمتها في تاريخ سوريا بأثر لا يُنسى، ليحمل ألقاباً عدة مها الراعي الأول لمسيرة التعليم العالي في الجمهورية العربية السورية الأولى
+			وكما اسلفنا وعند وصول القوات الفرنسية بقيادة الملازم تيريه الذي عينته السلطة المنتدبة حاكماً عاماً على محافظتي الجزيرة والفرات بصفة مستشار
 
 			</p>
 		</div>
 
 		<div class="buttons-block">
-			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/syrians/syrians-5.html">المزيد</a>
-			<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
+			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/episodes/qamishly-3/">المزيد</a>
+			<!-- <a class="pl20" href="{{ site.url }}/words/">الأرشيف</a> -->
 		</div>
 	</div>
 
