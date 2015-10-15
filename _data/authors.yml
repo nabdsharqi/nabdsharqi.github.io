@@ -176,3 +176,13 @@ issas:
    name: "عيسى الشيخ حسن"
    siterole: "writer"
    location: قطر
+
+mudeen:
+   name: "مدين المحميد"
+   siterole: "writer"
+   location:
+
+hussein:
+   name: "لمحمد – القامشلي"
+   siterole: "writer"
+   location: القامشلي
