@@ -257,3 +257,12 @@ $cat-syrians: #546E7A;
     }
   }
 }
+
+
+p{
+  direction: rtl;
+}
+
+article #page-meta p{
+    direction: ltr;
+}
