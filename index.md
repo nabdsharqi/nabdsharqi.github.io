@@ -22,7 +22,7 @@ widget1:
    تسجيل 20 إلى 25 هدفا كان لدي دافع الثقة التي منحتها لـ كريم، على كل أرغب
    في أن يتألق ثلاثي الهجوم في كل المباريات ليكون هناك توازن داخل المجموعة.'
 widget2:
-   title: "!الغزالة الشاردة"
+   title: "فريق الحسكة"
    url: 'http://nabd-sharqi.com/fields/فريق-الحسكة/'
    image: Football.jpg
    category: 'ملاعب'
@@ -99,7 +99,7 @@ widget8:
 widget9:
    title: "الحرب"
    url: 'http://nabd-sharqi.com/culture/الحرب/'
-   image: melkon-melkon-3.jpg
+   image: earth.jpg
    category: 'فضاءات ثقافية'
    cat-en: 'culture'
    text: 'الحرب تجدد شبابها تصبح نضرة اكثر ... تتبرج بالاحمر القاني كمومس رخيصة
