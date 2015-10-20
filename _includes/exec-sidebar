@@ -9,17 +9,17 @@
 		<div class="img-faux-crop">
 			<img src="{{ site.url }}/images/melkon-melkon-3.jpg" class="text-right" alt="Melkon Melkon"/>
 		</div>
-		<!-- <h2 class="text-right">كلمة رئيس التحرير</h2> -->
 		<div class="text-block">
-			<h3 class="text-right">أسرى التابوات</h3>
+			<h3 class="text-right">!داعش و المثقفون DNA </h3>
 			<p class="text-right" id="teaser-text-block">
-				أمضينا خمسة عقود من عمرنا أسرى للتابوات الثلاثة // الدين والسياسة والجنس // ،وبات هذا الثالوث من المحرمات يفقأ عيون حريتنا وفكرنا وانسانيتنا
-
+				في أزمنة صعبة وكارثية تصبح الكتابة جريمة يقترفها الكاتب ،ويتفقد أصابعه
+				كل ليلة ،فيجد ألم الناس مطبوعاً على أديمها ،ولا قدرة لديه على غسل يديه
+				من دماء حروفه .
 			</p>
 		</div>
 
 	<div class="buttons-block">
-		<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/exec-words/exec-word-5.html">المزيد</a>
+		<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/exec-words/exec-word-6.html">المزيد</a>
 		<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
 	</div>
 	</div>

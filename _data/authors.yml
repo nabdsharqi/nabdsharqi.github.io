@@ -186,3 +186,13 @@ hussein:
    name: "حسين أحمد المحمد"
    siterole: "writer"
    location: القامشلي
+
+sharaf:
+   name: "عبد الرحمن شرف"
+   siterole: "writer"
+   location:
+
+mudin:
+   name: "مدين المحميد"
+   siterole: "writer"
+   location:
