@@ -29,7 +29,7 @@ widget2:
    إنْ نسيتُ بكيتُ ، وإنْ تذكرتُ ضحكتُ'
 widget3:
    title: "طلبة الحسكة..ملوا الاجتماعات و وعودها"
-   url: 'http://nabd-sharqi.com/culture/طلبة-الحسكة/'
+   url: 'http://nabd-sharqi.com/east-west/طلبة-الحسكة/'
    image: hasake-students.jpg
    category: 'شرق-غرب'
    cat-en: 'ew'
