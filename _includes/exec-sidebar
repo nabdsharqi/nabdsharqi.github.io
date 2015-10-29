@@ -10,16 +10,15 @@
 			<img src="{{ site.url }}/images/melkon-melkon-3.jpg" class="text-right" alt="Melkon Melkon"/>
 		</div>
 		<div class="text-block">
-			<h3 class="text-right">!داعش و المثقفون DNA </h3>
+			<h3 class="text-right">!عنف مبكر ؟ </h3>
 			<p class="text-right" id="teaser-text-block">
-				في أزمنة صعبة وكارثية تصبح الكتابة جريمة يقترفها الكاتب ،ويتفقد أصابعه
-				كل ليلة ،فيجد ألم الناس مطبوعاً على أديمها ،ولا قدرة لديه على غسل يديه
-				من دماء حروفه .
+				لم أنم تلك الليلة وأنا ملتصق بجهاز الراديو الخشبي العتيق في منزلنا
+				الترابي اتابع ضوءه واتنقل بإبرته من محطة اذاعية لاخرى ،كان الاسم يتكر
 			</p>
 		</div>
 
 	<div class="buttons-block">
-		<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/exec-words/exec-word-6.html">المزيد</a>
+		<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/exec-words/exec-word-7.html">المزيد</a>
 		<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
 	</div>
 	</div>

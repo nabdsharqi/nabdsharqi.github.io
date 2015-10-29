@@ -6,19 +6,20 @@
 			</a>
 		</span>
 		<div class="img-faux-crop">
-			<img src="{{ site.url }}/images/lucian.jpg" alt="rida-saeed" style=""/>
+			<img src="{{ site.url }}/images/akkad.jpg" alt="aqqad" style=""/>
 		</div>
-		<!-- <h2 class="text-right">قامات سورية</h2> -->
 		<div class="text-block">
 
-			<h3 class="text-right">لوقيان السميساطي</h3>
+			<h3 class="text-right">مصطفى العقاد</h3>
 			<p class="text-right" id="teaser-text-block">
-لوقيانوس أو لوقيان كان أديب وبليغ عاش بلقرن الثاني الميلادي عرف بكتاباته باللغة اليونانية القديمة. ولد لوقيان سنة 125 ،في مدينة سميساط على الفرات في شمال سوريا ومات سنة 180 وهناك من يقول مات سنة 175 م
+				مصطفى العقاد مخرج ومنتج سينمائي سوري، ، يحمل الجنسية الأمريكية، ولد في
+				مدينة حلب 1 تموز 1935 في سوريا، ثم غادرها بغرض الدراسة إلى الولايات
+				المتحدة الأمريكية في جامعة كاليفورنيا، وأقام فيها حتى أواخر مراحل حياته.
 			</p>
 		</div>
 
 		<div class="buttons-block">
-			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/syrians/syrians-6.html">المزيد</a>
+			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/syrians/syrians-7.html">المزيد</a>
 			<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
 		</div>
 	</div>
