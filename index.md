@@ -22,7 +22,7 @@ widget1:
    وفقاً لتصنيف Alexa.'
 widget2:
    title: "أما أنا نصف الحقيقة!"
-   url: 'http://nabd-sharqi.com/it/انا-نصف-الحقيقة/'
+   url: 'http://nabd-sharqi.com/culture/انا-نصف-الحقيقة/'
    image: a-sharaf-2.jpg
    category: 'فضاءات ثقافية'
    cat-en: 'culture'
