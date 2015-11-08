@@ -29,6 +29,7 @@ widget2:
    cat-en: 'ew'
    text: 'ولاحظ مؤلفو المعاجم أن استخدام هذه الكلمة ارتفع إلى 200 في المئة عام
    2014.'
+widget3:
    title: "كولبنكيان Mr Five Percent"
    url: 'http://nabd-sharqi.com/east-west/كولبنكيان/'
    image: colbnkian.jpg
@@ -102,7 +103,7 @@ widget8:
 widget9:
    title: "ميلاد الندم"
    url: 'http://nabd-sharqi.com/culture/ميلاد-الندم/'
-   image: Al-jehad.gif
+   image: mudin.jpg
    category: 'فضاءات ثقافية'
    cat-en: 'culture'
    text: 'أخطأتُ الرّحيلَ عن جنّةٍ
