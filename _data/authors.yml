@@ -196,3 +196,13 @@ mudin:
    name: "مدين المحميد"
    siterole: "writer"
    location:
+
+yahia:
+   name: "يحيى الواضح"
+   siterole: "writer"
+   location: السويد
+
+georges:
+   name: "جورج جرجس"
+   siterole: "writer"
+   location: السويد
