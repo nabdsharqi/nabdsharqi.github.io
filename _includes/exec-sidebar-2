@@ -6,20 +6,21 @@
 			</a>
 		</span>
 		<div class="img-faux-crop">
-			<img src="{{ site.url }}/images/akkad.jpg" alt="aqqad" style=""/>
+			<img src="{{ site.url }}/images/mary-shaqra.jpeg" alt="aqqad" style=""/>
 		</div>
 		<div class="text-block">
 
-			<h3 class="text-right">مصطفى العقاد</h3>
+			<h3 class="text-right">ميري شقرا</h3>
 			<p class="text-right" id="teaser-text-block">
-				مصطفى العقاد مخرج ومنتج سينمائي سوري، ، يحمل الجنسية الأمريكية، ولد في
-				مدينة حلب 1 تموز 1935 في سوريا، ثم غادرها بغرض الدراسة إلى الولايات
-				المتحدة الأمريكية في جامعة كاليفورنيا، وأقام فيها حتى أواخر مراحل حياته.
+
+				وتعتبر شقرا أول سيدة من حمص أقدمت على إصدار مجلة نسائية، كما أنها أول
+				سيدة حمصية دافعت عن حرية المرأة وبحثت القضايا التي تعيق تقدُّم المرأة
+				العربية علناً وعبر منابر عدة.
 			</p>
 		</div>
 
 		<div class="buttons-block">
-			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/syrians/syrians-7.html">المزيد</a>
+			<a class="button tiny radius no-margin-bottom" href="{{ site.url }}/words/syrians/syrians-8.html">المزيد</a>
 			<a class="pl20" href="{{ site.url }}/words/">الأرشيف</a>
 		</div>
 	</div>
